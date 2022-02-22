@@ -1,0 +1,3288 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Directions for the right receiving of the Lords Supper drawn up by way of question and answer for the use and benefit of the younger sort, especially the citizens of Exeter / by J.B.</title>
+            <author>J. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 100 KB of XML-encoded text transcribed from 49 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26721</idno>
+            <idno type="STC">Wing B100</idno>
+            <idno type="STC">ESTC R3234</idno>
+            <idno type="EEBO-CITATION">13072938</idno>
+            <idno type="OCLC">ocm 13072938</idno>
+            <idno type="VID">97168</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26721)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97168)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 406:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Directions for the right receiving of the Lords Supper drawn up by way of question and answer for the use and benefit of the younger sort, especially the citizens of Exeter / by J.B.</title>
+                  <author>J. B.</author>
+               </titleStmt>
+               <extent>[2], 75 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Parkhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"With allowance"</note>
+                  <note>Some pages tightly bound and print is missing on p. 75 of filmed copy. Pages 60-end photographed from Bodleian Library copy and inserted at the end.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lord's Supper --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97168:1" rendition="simple:additions"/>
+            <p>DIRECTIONS FOR THE Right Receiving OF THE Lords Supper.</p>
+            <p>Drawn up by way of <hi>Queſtion</hi> and <hi>Anſwer,</hi> for
+the Uſe and Benefit of the younger ſort, eſpecially the Citizens of
+<hi>Exeter.</hi>
+            </p>
+            <p>By <hi>J. B.</hi>
+            </p>
+            <q> 
+               <p>Whoſoever Eateth my Fleſh and Drinketh my Blood, hath Eternal
+life, and I will raiſe him up at the Laſt Day,</p> 
+               <bibl>
+                  <hi>Joh. 6. 54.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>With Allowance.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Tho. Parkhurſt,</hi> at the
+<hi>Bible</hi> and <hi>Three Crowns,</hi> over againſt the <hi>Great
+Conduit,</hi> at the lower end of <hi>Cheapſide,</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:97168:2"/>
+            <pb n="1" facs="tcp:97168:2"/>
+            <head>DIRECTIONS FOR THE Right Receiving OF THE Lords Supper.</head>
+            <p>Queſtion. <hi>
+                  <seg rend="decorInit">T</seg>O whom doth the Sacrament of the LORD's S<g ref="char:V">Ʋ</g>PPER
+be<g ref="char:EOLhyphen"/>long?</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> Not to the unworthy, but to the worthy.</p>
+            <p>Q. <hi>Who are unworthy Gueſts at the Lords Table?</hi>
+            </p>
+            <p>
+               <pb n="2" facs="tcp:97168:3"/>
+               <hi>A.</hi> All groſly Ignorant, and openly
+Scandalous.</p>
+            <p>Q. <hi>Why are all groſly Ignorant to be kept back from the
+Sacrament?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe being Ignorant, they want an eye to
+diſcern the Lord's Body, a Hand to receive him, and a Mouth to feed upon him:
+and therefore in ſo coming they eat and drink Judgement to themſelves, 1
+<hi>Cor.</hi> 11.29.</p>
+            <p>Q. <hi>Why are openly Scandalous to be kept from the
+Sacrament?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe ſuch in preſuming to touch ſuch holy
+things with unholy hearts, lips and lives, they diſhonour and provoke God;
+pollute and prophane his Ordinance; grieve and make ſad the Godly; and make
+them<g ref="char:EOLhyphen"/>ſelves guilty of Murdering Chriſt, and D<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mning their own ſouls, 1 <hi>Cor.</hi> 11.27.</p>
+            <p>Q. <hi>Who are groſly Ignorant?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Such as are ignorant of the Nature, Ends and Uſe of
+the Sacrament, and not able to give a Reaſon of their Faith and hope to be
+ſaved, 1 <hi>Pet.</hi> 3.15.</p>
+            <p>Q <hi>Who are openly Scandalous?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Such as live and lye Impenitently in a courſe of
+Sinning, and by their ſpeeches and practices give juſt off<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce to any of the Godly, 1 <hi>Cor.</hi>
+10.32, 33.</p>
+            <p>
+               <pb n="3" facs="tcp:97168:3"/>Thus of ſuch as are unworthy Gueſts to come
+to the Lords Table.</p>
+            <p>Q. <hi>Who are worthy Communi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ants?</hi>
+               <note place="margin">Worthy Commu<g ref="char:EOLhyphen"/>nicants.</note>
+            </p>
+            <p>
+               <hi>A.</hi> Such as are willing and in ſome mea<g ref="char:EOLhyphen"/>ſure able to
+give a Reaſon of their Faith and Hope to be Saved, and whoſe
+Converſati<g ref="char:EOLhyphen"/>on is ſuitable to their Profeſſion, <hi>Epheſ.</hi>
+4.1.</p>
+            <p>Q. <hi>Are there any worthy in themſelves of this
+honour?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No, but the Lord is pleaſed to account and accept
+them ſo, in, and for, and through the Righteouſneſs of Chriſt imputed
+to them, <hi>Rev.</hi> 3.4. And becauſe their deſire, and endeavour is to
+walk worthy of, and ſuitable to their profeſſion, <hi>Epheſ.</hi> 4.1.
+<hi>Col.</hi> 2.6.</p>
+            <p>Q. <hi>What is required of thoſe that would come as worthy
+Gueſts to the Table of the lord?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A Due Preparation before,<note place="margin">Requiſite to a Right Receiving.</note> A Right Diſpoſition
+in, and an Anſwerable Carriage after.</p>
+            <p>Q. <hi>Why is every one bound Duly to pre<g ref="char:EOLhyphen"/>pare himſelf?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe in coming unpreparedly he not only
+diſhonours God, and pollutes the Ordinance; but makes himſelf Guilty of the
+Body and Blood of Chriſt, and <pb n="4" facs="tcp:97168:4"/> eateth and drinketh
+Judgement to himſelf, 1 <hi>Cor.</hi> 11.27, 29.</p>
+            <p>Q. <hi>What is that Preparation that is re<g ref="char:EOLhyphen"/>quired?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is double, Habitual, and Actual.</p>
+            <p>Q. <hi>What is Habitual Preparation?</hi>
+            </p>
+            <p>
+               <note place="margin">Habitual Prepara<g ref="char:EOLhyphen"/>tion.</note>
+               <hi>A.</hi> The
+Examination of our ſelves, Whether we have the Habit or Seed of thoſe
+Graces that do qualifie and fit us for the Sacrament.</p>
+            <p>Q. <hi>Why is every one to examine whether he have thoſe Gra<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 1. Becauſe this is expreſly required, 1.
+<hi>Cor.</hi> 11.28.</p>
+            <p n="2">2. Becauſe without Examination, we cannot come to know the
+truth of Grace in us, nor act our Graces, <hi>Jer.</hi> 8.6.</p>
+            <p n="3">3. Becauſe without a work of grace, the Sacrament will be
+but a Seal to a blank; of no benefit, but much hurt.</p>
+            <p>Q. <hi>What are thoſe Graces that we are to examine whether we
+have them?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They are ſix: 1. Saving Know<g ref="char:EOLhyphen"/>ledge. 2. Faith. 3.
+Repentance. 4. O<g ref="char:EOLhyphen"/>bedience. 5. Love: and 6. A Holy de<g ref="char:EOLhyphen"/>ſire, or an Appetite to
+the Sacrament.</p>
+            <p>Q. <hi>Why is every one bound to examine whether he have a
+competent meaſure of Knowledge?</hi>
+            </p>
+            <p>
+               <pb n="5" facs="tcp:97168:4"/>
+               <hi>A.</hi> 1. Becauſe without Knowledge, we
+cannot diſcern the Lords Body, 1 <hi>Cor.</hi> 11.29.</p>
+            <p n="2">2. Becauſe without Knowledge we can<g ref="char:EOLhyphen"/>not pleaſe God in
+the ſervice of him, <hi>Prov.</hi> 19.2. <hi>Hoſ.</hi> 6.6.</p>
+            <p n="3">3. Becauſe we ſhall have no ſalvation, but eternal
+deſtruction, without Know<g ref="char:EOLhyphen"/>ledge, 2 <hi>Cor.</hi> 4.3, 4. 2 <hi>Theſ.</hi>
+1.7, 8, 9.</p>
+            <p>Q. <hi>What is Knowledge?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is a ſanctified underſtanding and clear
+apprehenſion of thoſe things revealed in the Scriptures,<note place="margin">Know<g ref="char:EOLhyphen"/>ledge De<g ref="char:EOLhyphen"/>fined.</note> neceſſary to our Salvati<g ref="char:EOLhyphen"/>on,
+<hi>Joh.</hi> 17.3.</p>
+            <p>Q. <hi>What are we to examine in and about our Knowledge?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> What thoſe things are that we are to know; and
+whether our Knowledge be true Saving Knowledge.</p>
+            <p>Q. <hi>What are thoſe things that we are to know?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Some things concerning God;<note place="margin">Things
+to be known in five heads.</note> and concerning our Selves; and concerning
+Chriſt; and concerning the Covenant of Grace; and concerning the Sacrament,
+the Seal of the Covenant.</p>
+            <p>
+               <pb n="6" facs="tcp:97168:5"/>
+               <note place="margin">Know<g ref="char:EOLhyphen"/>ledge of God, in five
+heads. I. Of the Na<g ref="char:EOLhyphen"/>ture of God.</note>Q. <hi>What are we to know of
+God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> His Nature, Attributes, Works, Word and Worſhip.</p>
+            <p>Q. <hi>What is his Nature?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He is One, Infinite, Eternal, Perfect,
+Incomprehenſible Spirit, diſtinguiſhed into three Perſons, the Father,
+Son, and Holy Ghoſt, 1 <hi>Joh.</hi> 5.7.</p>
+            <p>Q. <hi>What is a Spirit?</hi>
+            </p>
+            <p>
+               <note place="margin">A Spirit.</note>
+               <hi>A.</hi> A Subſtance, or
+Being that cannot be ſeen, <hi>Joh.</hi> 4.24. <hi>Luke</hi> 24.39.</p>
+            <p>Q. <hi>What is a Perſon?</hi>
+            </p>
+            <p>
+               <note place="margin">A Perſon.</note>
+               <hi>A.</hi> A diſtinct
+Subſiſtence or Being, ha<g ref="char:EOLhyphen"/>ving in it the whole God-head, and
+diſtin<g ref="char:EOLhyphen"/>guiſhed from another by an incommunica<g ref="char:EOLhyphen"/>ble property, <hi>Joh.</hi>
+14.9, 10. <hi>Heb.</hi> 1.3.</p>
+            <p>Q. <hi>What are the Attributes of God?</hi>
+            </p>
+            <p>
+               <note place="margin">II. Of the At<g ref="char:EOLhyphen"/>tributes of
+God.</note>
+               <hi>A.</hi> Certain eſſential Properties, where<g ref="char:EOLhyphen"/>by God is
+pleaſed to make himſelf known unto us, who otherwiſe cannot come to know
+him. Otherwiſe called his Back-parts, <hi>Exod.</hi> 33.23. Becauſe we can
+have but an imperfect Knowledge of him, as we have of a man when we ſee him
+only by his back.</p>
+            <p>Q. <hi>Of what kind are thoſe Attributes?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They are either Incommunicable, or Communicable.</p>
+            <p>
+               <pb n="7" facs="tcp:97168:5"/>Q. <hi>What are his Incommunicable
+At<g ref="char:EOLhyphen"/>tributes?</hi>
+            </p>
+            <p>
+               <hi>A</hi> Such as cannot be given to,<note place="margin">1.
+Incommu<g ref="char:EOLhyphen"/>nicable Attri<g ref="char:EOLhyphen"/>butes.</note> or found in the Creature; as 
+<list>
+                  <item>Omnipreſence, <hi>Jer.</hi> 23.23, 24.</item>
+                  <item>Omniſciency, 1 <hi>Joh.</hi> 3.30.</item>
+                  <item>Omnipotency, <hi>Luke</hi> 1.37.</item>
+                  <item>Immutability, <hi>James</hi> 1.17.</item>
+               </list>
+            </p>
+            <p>Q. <hi>What are his Communicable At<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ri<g ref="char:EOLhyphen"/>butes?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Such as are given to,<note place="margin">2.
+Commu<g ref="char:EOLhyphen"/>nicable Attri<g ref="char:EOLhyphen"/>butes.</note> or found in the Creature, as Truth,
+Holineſs, Mercy, Ju<g ref="char:EOLhyphen"/>ſtice, <hi>Exod.</hi> 34.6, 7.</p>
+            <p>Q. <hi>Are theſe Communic<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ble Attribu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es
+in God as they are in man?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No; In men they are but Qualities, in God they are his
+very Eſſence. What<g ref="char:EOLhyphen"/>ſoever is in God, is God; God is Love it ſelf, 1
+<hi>Joh.</hi> 4.2. Theſe Properties are im<g ref="char:EOLhyphen"/>perfectly in men. There are but
+ſome De<g ref="char:EOLhyphen"/>grees of Mercy, Juſtice, <hi>&amp;c.</hi> But in God they are in
+perfection; he is ſo merciful and juſt as he cannot be more; he is
+infi<g ref="char:EOLhyphen"/>nite in all perfections.</p>
+            <p>Q. <hi>What are the Works of God?</hi>
+               <note place="margin">III. Of
+the Works of God.</note>
+            </p>
+            <p>
+               <hi>A.</hi> His Work before time was, His Decree; His Works in
+time, Creation, and Providence.</p>
+            <p>Q. <hi>What is the Decree of God?</hi>
+               <note place="margin">Gods
+De<g ref="char:EOLhyphen"/>cree de<g ref="char:EOLhyphen"/>fined.</note>
+            </p>
+            <p>
+               <hi>A.</hi> His unchangeable purpoſe with <pb n="8" facs="tcp:97168:6"/>
+himſelf from all Eternity, concerning the World, and every Creature in it,
+eſpecial<g ref="char:EOLhyphen"/>ly Men and Angels; their ends, and the means to bring them to their
+ends, for the manifeſtation of his own Glory, <hi>Epheſ.</hi> 1.11. There
+is nothing effected, or done by God in Time, but was Determined and appointed
+by him before all Time, <hi>Acts</hi> 15.18.</p>
+            <p>Q. <hi>What is Creation?</hi>
+            </p>
+            <p>
+               <note place="margin">Creation defined.</note>
+               <hi>A.</hi> The firſt
+outward act of God, whereby of nothing, by the Word of his power, he made the
+World, and every Creature in it, and all very good, <hi>Heb.</hi> 11.3.
+<hi>Gen.</hi> 1.31.</p>
+            <p>Q. <hi>W<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at is
+Providence?</hi>
+            </p>
+            <p>
+               <note place="margin">Provi<g ref="char:EOLhyphen"/>dence de<g ref="char:EOLhyphen"/>fined.</note>
+               <hi>A.</hi> That
+continued act of God, where<g ref="char:EOLhyphen"/>by he takes notice of, preſerves and governs all
+and every Creature, to their ends, by thoſe means which he hath appointed, to
+the Glory of his Name, and the good of his Elect, <hi>Prov.</hi> 15.3.
+<hi>Nehem.</hi> 9.6. <hi>Pſal.</hi> 29.10. <hi>Prov.</hi> 20.24.
+<hi>Jer.</hi> 10.23. <hi>Col.</hi> 1.16, 17. 1 <hi>Tim.</hi> 4.10.</p>
+            <p>
+               <note place="margin">IV. Of the Word of God.</note>Q. <hi>What are
+you to know concerning the Word of God?</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <hi>A.</hi> 1. That every part is Divinely
+in<g ref="char:EOLhyphen"/>ſpired, 2 <hi>Pet.</hi> 1.20, 21.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. Infallibly true, <hi>Luke</hi>
+16.17.</p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. That it contains all things
+neceſſary <pb n="9" facs="tcp:97168:6"/> to be known, believed, and practiſed by us
+to Salvation, 2 <hi>Tim.</hi> 3.16, 17.</p>
+            <p n="4">
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. That all and every one ought to know
+it, believe it, practiſe it, and yield obedi<g ref="char:EOLhyphen"/>ence to it, <hi>Joh.</hi> 5.39.
+<hi>Mark</hi> 16.16. 2 <hi>Theſ.</hi> 1.8, 9.</p>
+            <p>Q. <hi>What are you to know concerning the Worſhip of
+God?</hi>
+               <note place="margin">V. Of the Worſhip of God.</note>
+            </p>
+            <p>
+               <hi>A.</hi> Eſpecially two things.</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. That he is to be Worſhipped in
+Pub<g ref="char:EOLhyphen"/>lick, in Private, and in Secret, <hi>Iſa.</hi> 2.2, 3. <hi>Jer.</hi>
+10.25. <hi>Matth.</hi> 6.6.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. That he is to be Worſhipped in a
+Right Manner, and to a Right End. In the <hi>Name</hi> of Chriſt,
+<hi>Col.</hi> 3.17. And by the <hi>Strength</hi> of Chriſt, <hi>Joh.</hi>
+15.5. And in <hi>Spirit and in Truth, Joh.</hi> 4.24. And to the <hi>Glory</hi>
+of Chriſt, <hi>Phil.</hi> 1.20.</p>
+            <p>Thus of things to be known concerning God.</p>
+            <p>Q. <hi>What are we to know concerning our Selves?</hi>
+               <note place="margin">Know<g ref="char:EOLhyphen"/>ledge of our ſelves in four eſtates.</note>
+            </p>
+            <p>
+               <hi>A.</hi> Four things. 1. Our Bleſſed eſtate by Creation.
+2. Our Curſed eſtate by Tranſgreſſion. 3. Our Gracious eſtate by
+Regeneration. 4. Our Happy eſtate by Glorification.</p>
+            <p>
+               <pb n="10" facs="tcp:97168:7"/>
+               <note place="margin">I. Mans Bleſ<g ref="char:EOLhyphen"/>ſed
+eſtate by Crea<g ref="char:EOLhyphen"/>tion.</note>Q. <hi>What was mans Bleſſed eſtate by
+Crea<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He was Created after the Image of God, in Knowledge,
+Righteouſneſs and true Holineſs, <hi>Gen.</hi> 1.26, 27. <hi>Col.</hi>
+3.9, 10. <hi>Epheſ.</hi> 4.24. Where by [Image] you are to underſtand not
+the Subſtance, but the likeneſs of God, becauſe an Infinite God cannot be
+reſembled by a finite Crea<g ref="char:EOLhyphen"/>ture. And by [righteouſneſs] that ori<g ref="char:EOLhyphen"/>ginal
+juſtice inclining the whole man to the Knowledge and Obedience of the whole
+will of God. And by [holineſs] an actual Conformity to the whole will of
+God.</p>
+            <p>
+               <note place="margin">II. Mans Cur<g ref="char:EOLhyphen"/>ſed eſtate by
+Tranſ<g ref="char:EOLhyphen"/>greſſion.</note>
+               <hi>Q. What is the Curſed eſtate of man by
+Tranſgreſſion?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By our firſt Parents diſobeying the Command of God
+in eating the forbidden fruit, there followed the Curſe of God up<g ref="char:EOLhyphen"/>on them,
+and all their poſterity.</p>
+            <p>Q. <hi>Wherein do<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h
+this Curſe conſiſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In three things: <hi>viz.</hi> Guilt, Filth, and
+Puniſhment.</p>
+            <p n="1">
+               <note place="margin">1. Guilt.</note>1. Every one comes into
+the world guilty of <hi>Adams</hi> firſt ſin, <hi>Rom.</hi> 3.9, 10.
+<hi>Rom.</hi> 5.17, 18.</p>
+            <p>Q. <hi>Wh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t is the
+ſecond thing <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat followed the
+F<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll of man?</hi>
+            </p>
+            <p>
+               <note place="margin">2. Filth.</note>
+               <hi>A.</hi> A defilement of the
+whole man with ſin, Original, and Actual, 1 <hi>Theſ.</hi> 5.23.</p>
+            <p>
+               <pb n="11" facs="tcp:97168:7"/>Q. <hi>What is ſin?</hi>
+               <note place="margin">Of
+ſin.</note>
+            </p>
+            <p>
+               <hi>A.</hi> The Tranſgreſſion of the Law of God, Revealed in
+the word, 1 <hi>Joh.</hi> 3.4. or written in the heart, <hi>Rom.</hi> 2.14,
+15.</p>
+            <p>Q. <hi>What is Original ſin?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is the Corruption of our Nature,<note place="margin">Original ſin defi<g ref="char:EOLhyphen"/>ned.</note> which was juſtly derived to
+every one of us, from the loyns of our firſt Parents, incli<g ref="char:EOLhyphen"/>ning them to all
+evil, and indiſpoſing them to all good, <hi>Rom.</hi> 5.12.
+<hi>Pſal.</hi> 51.5. <hi>Rom.</hi> 8.7.</p>
+            <p>Q. <hi>What is Actual ſin?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Every evil Thought, Affection,<note place="margin">Actual ſin defined.</note> Word and Action, that ariſeth out
+of this Corrupt Fountain, <hi>James</hi> 1.14.</p>
+            <p>Q. <hi>What is the third thing that followed the Fall on every
+man?</hi>
+            </p>
+            <p>A. Puniſhment, both of <hi>Loſs,</hi> and
+<hi>Senſe.</hi>
+               <note place="margin">3. Puniſh<g ref="char:EOLhyphen"/>ment.</note>
+            </p>
+            <p>Q. <hi>What is the Puniſhment of Loſs.</hi>
+            </p>
+            <p>A. A Deprivation of the Image of God,<note place="margin">1. Of
+Loſs.</note> and that happy eſtate which we had by Creation, <hi>Rom.</hi>
+3.23. <hi>Epheſ.</hi> 2.3.</p>
+            <p>Q. <hi>What is <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he
+Puniſhment of ſenſe?</hi>
+            </p>
+            <p>A. All manner of Plagues and Judge<g ref="char:EOLhyphen"/>ments, in Life, and Death, and
+after Death,<note place="margin">2. Of ſenſe.</note> or, Death Spiritual,
+Corporal, and Eter<g ref="char:EOLhyphen"/>nal, <hi>Deut.</hi> 28.15. to the end of the Chap.
+<hi>Rom.</hi> 6.23. <hi>Mat.</hi> 25.46.</p>
+            <p>Q. <hi>What is the third thing to be known concerning our
+ſelves?</hi>
+            </p>
+            <p>
+               <pb n="12" facs="tcp:97168:8"/>
+               <note place="margin">III. Mans Gra<g ref="char:EOLhyphen"/>cious eſtate
+by Regenera<g ref="char:EOLhyphen"/>tion.</note>A. Our Gracious eſtate by Regenera<g ref="char:EOLhyphen"/>tion. God leaveth
+not all men in their fallen curſed eſtate and condition: but in his
+appointed time, he effectually calleth all ſuch as belong to the election of
+Grace, out of an eſtate of Nature, into in eſtate of Grace, <hi>Acts</hi>
+26.18.</p>
+            <p>Q <hi>What is that Gra<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ious eſtate?</hi>
+            </p>
+            <p>
+               <note place="margin">What it is.</note>
+               <hi>A.</hi> It is a quickning
+of the Soul with Spiritual Life, by infuſing a principle of Grace, <hi>Ep<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſ.</hi> 2.1, 2.</p>
+            <p>Or, A R<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>novation of the
+Image of God, <hi>Epheſ.</hi> 4.24.</p>
+            <p>Or, The Sanctification of the whole man, in Body, Soul and Spirit,
+1 <hi>Theſ.</hi> 5.23.</p>
+            <p>
+               <note place="margin">Signs of Saving Grace.</note>Q. <hi>What
+ſigns can you give me of ſa<g ref="char:EOLhyphen"/>ving Grace beg<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n in you, or of your being in ſuch a Gra<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ious eſtate?</hi>
+            </p>
+            <p>
+               <note place="margin">1 Sign.</note>
+               <hi>A.</hi> Firſt, The
+Univerſality of it; when it is a thorough change of heart and life; when
+there is holineſs not only in my words and actions without, but alſo in my
+thoughts and affections within, 2 <hi>Cor.</hi> 5.17.</p>
+            <p>When alſo I have reſpect to every Com<g ref="char:EOLhyphen"/>mand of God, one as well
+as another, <hi>Pſal.</hi> 119.6. <hi>Acts</hi> 13.22. <hi>Luke</hi> 1.6.</p>
+            <p>Q. <hi>What is another ſign of ſaving Grace?</hi>
+            </p>
+            <p>
+               <note place="margin">2. Sign.</note>
+               <hi>A.</hi> 2. When it is
+ſtill combating with corruption, <hi>Gal.</hi> 5.17. <hi>Rom.</hi> 7.18, 19, 
+<pb n="13" facs="tcp:97168:8"/> 20, 21. 2 <hi>Sam.</hi> 6.21, 22. <hi>Job</hi> 27.5, 6. And
+increaſing by oppoſition, 2 <hi>Sam.</hi> 6.22. and <hi>J<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b</hi> 27.5, 6.</p>
+            <p>Q. <hi>What is another ſign?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 3. The Prizing of Grace whereſo<g ref="char:EOLhyphen"/>ever I ſee
+it,<note place="margin">3 Sign.</note> 1 <hi>Joh.</hi> 3.14. <hi>Pſal.</hi>
+16.3. And all the means of Grace, <hi>Pſal.</hi> 84.1. <hi>Pſal.</hi> 122.
+<hi>throughout.</hi>
+            </p>
+            <p>Q. <hi>What is another ſign of ſaving Grace?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 4. When it is Diffuſive,<note place="margin">4
+Sign.</note> and labour<g ref="char:EOLhyphen"/>ing to make others partakers of it, <hi>Pſal.</hi>
+34.8, 9, 10, 11. <hi>Acts</hi> 26.29.</p>
+            <p>Q. <hi>What is another ſign of ſaving Grace?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 5. Perſevering in Grace to the end, and in the
+end,<note place="margin">5 Sign.</note> 
+               <hi>Heb.</hi> 3.14. <hi>Rev.</hi>
+2.10.</p>
+            <p>Q. <hi>What is the Fourth thing to be known concerning our
+ſelves?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Our Happy eſtate and condition by
+Glorification.<note place="margin">IV. Mans Hap<g ref="char:EOLhyphen"/>py eſtate by
+Glorifi<g ref="char:EOLhyphen"/>cation.</note>
+            </p>
+            <p>Q. <hi>What is that?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That Perfect holineſs and happineſs that we
+ſhall have, both in Soul and Body with the Lord in Heaven for evermore.
+<hi>Matth.</hi> 25.46. 1 <hi>Theſ.</hi> 4.17, 18.</p>
+            <p>And thus of things to be known concern<g ref="char:EOLhyphen"/>ing our ſelves.</p>
+            <p>
+               <pb n="14" facs="tcp:97168:9"/>
+               <note place="margin">Know<g ref="char:EOLhyphen"/>ledge of Chriſt in
+four things.</note>Q. <hi>What are th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe things that we are to kn<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w concerning Chriſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Four things. 1. What he is in his Natures. 2. What he
+is in his Offices. 3. What are the Benefits that come by him; and 4. What we
+muſt do to get an Inte<g ref="char:EOLhyphen"/>reſt in him.</p>
+            <p>Q. <hi>What is J<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſus
+Chriſt in his Na<g ref="char:EOLhyphen"/>tures?</hi>
+            </p>
+            <p>
+               <note place="margin">I. The Na<g ref="char:EOLhyphen"/>tures of Chriſt.</note>
+               <hi>A.</hi>
+The Eternal Son of God, who in the fulneſs of time took to his Divine Nature,
+our Humane Nature, and ſo became God and Man in one Perſon, that ſo he
+might be a fit Mediator to go between God and Man, and ſo to reconcile God to
+Man, and Man to God, <hi>Gal.</hi> 4.4, 5.</p>
+            <p>Q. <hi>Why was he Man?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe Man had ſinned, and Juſtice required
+that that Nature that had ſinned, ſhould make ſatisfaction.</p>
+            <p>Q. <hi>Why was he G<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That ſo he might be able to under<g ref="char:EOLhyphen"/>go the wrath of
+God due to our ſins, which a meer man could not do; and that his ſufferings
+might be of infinite merit, to pro<g ref="char:EOLhyphen"/>cure ſalvation for us.</p>
+            <p>Q. <hi>What is Jeſus Chriſt to his?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Only, and Alſufficient Remedy. 
+<pb n="15" facs="tcp:97168:9"/> The only Remedy, becauſe there is no other Name given
+under Heaven whereby we can be ſaved, <hi>Acts</hi> 4.12.</p>
+            <p>The Alſufficient Remedy, becauſe he is able to ſave to the
+uttermoſt all thoſe that come to God by him, <hi>Heb.</hi> 7.25, 26.</p>
+            <p>Q <hi>How doth it appear that he is the only Alſuff<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cient Remedy?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In that he is the alone Mediator,<note place="margin">II. The Offi<g ref="char:EOLhyphen"/>ces of Chriſt.</note> Prieſt, Prophet, and King
+of his Church.</p>
+            <p>Q. <hi>What is that Office of h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Mediator<g ref="char:EOLhyphen"/>ſhip?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That Office whereby he goes be<g ref="char:EOLhyphen"/>tween God and Man,<note place="margin">1. In Gene<g ref="char:EOLhyphen"/>ral. Mediator.</note> to reconcile and make peace
+between God and Man, 1 <hi>Tim.</hi> 2.5.</p>
+            <p>Q. <hi>W<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at is his
+Prieſtly Offi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e?</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. That Office of his
+Mediatorſhip whereby he offered up himſelf a Sacrifice for our ſins on
+the Croſs,<note place="margin">2. Particular.</note>
+               <note place="margin">1.
+Prieſt.</note> 
+               <hi>R<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m.</hi> 3.24,
+25. And maketh continual Interceſſion for us at the Right hand of his
+Father, <hi>R<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m.</hi> 8.33, 34.
+<hi>Heb.</hi> 7.24 25.</p>
+            <p>Q. <hi>What is his Pr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>phetical Office?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That Office of his Mediatorſhip whereby he
+reveals,<note place="margin">2. Prophet.</note> and makes known his Fathers will
+to us, by his Word and Spirit, <hi>Joh.</hi> 15.15. <hi>Act</hi> 3.
+<hi>laſt.</hi>
+            </p>
+            <p>Q. <hi>What is his Kingly Offi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That Office of his Mediatorſhip whereby,<note place="margin">3. King.</note> having power given him over all 
+<pb n="16" facs="tcp:97168:10"/> things in Heaven and in Earth; he exer<g ref="char:EOLhyphen"/>ciſeth Government
+in his Church, for the ſalvation of his people, and for the deſtru<g ref="char:EOLhyphen"/>ction of
+his, and his Churches enemies, <hi>Matth.</hi> 28.18. <hi>Pſal.</hi>
+45.5.</p>
+            <p>Q. <hi>What is the third thing to be known concerning
+Chriſt.</hi>
+            </p>
+            <p>
+               <note place="margin">III. The Bene<g ref="char:EOLhyphen"/>fits that come by
+Chriſt.</note>
+               <hi>A.</hi> The Benefits that come by him to true
+Believers.</p>
+            <p>
+               <hi>Q. What are thoſe Benefits?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Principal are thoſe in 1 <hi>Cor.</hi> 1.30.
+<hi>He is made of God to us Wiſdom, Righteouſneſs, Sanctification and
+Redempti<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n.</hi>
+            </p>
+            <p>The Conſequential are thoſe in <hi>Rom.</hi> 15.13. <hi>Joy,
+and Peace in believing.</hi>
+            </p>
+            <p>
+               <hi>Q. What is the fourth thing to be known concerning
+Chriſt?</hi>
+            </p>
+            <p>
+               <note place="margin">IV. The means to get In<g ref="char:EOLhyphen"/>tereſt in
+Chriſt.</note>
+               <hi>A.</hi> The means to get an Intereſt in Chriſt, and the
+Benefits that come by him.</p>
+            <p>
+               <hi>Q. What are thoſe Means?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Faith, and Repentance, <hi>Mark</hi> 1.14, 15.</p>
+            <p>
+               <hi>Q. What is Faith?</hi>
+            </p>
+            <p>
+               <note place="margin">Faith de<g ref="char:EOLhyphen"/>fined.</note>
+               <hi>A.</hi> It is a
+ſpecial, and ſupernatural Gift of God, wrought by the Spirit, through the
+Miniſtry of the Word, in the hearts of the Elect, whereby we come to know,
+aſ<g ref="char:EOLhyphen"/>ſent unto, take, and rely only upon the Lord Jeſus Chriſt for
+Salvation, <hi>Joh.</hi> 1.12. <hi>Act.</hi> 16.31.</p>
+            <p>
+               <pb n="17" facs="tcp:97168:10"/>
+               <hi>Q. What is Repentance?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is a ſpecial Gift of God,<note place="margin">Repen<g ref="char:EOLhyphen"/>tance de<g ref="char:EOLhyphen"/>fined.</note> wrought alſo by the Spirit, in the
+Miniſtry of the Word, ariſing from the knowledge of, and Faith in the
+mercies of God in Chriſt, working Godly ſorrow for ſin, and a through
+change of heart and life, from the Love and reign of all ſin, to the life and
+power of Godlineſs, <hi>Acts</hi> 26.18. 2 <hi>Cor.</hi> 5.17. <hi>Rom.</hi>
+6.12, 13.</p>
+            <p>Thus of the things to be known con<g ref="char:EOLhyphen"/>cerning Chriſt.</p>
+            <p>
+               <hi>Q. What are thoſe things that we are to know concerning the
+Cov<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nant?</hi>
+               <note place="margin">Know<g ref="char:EOLhyphen"/>ledge of the Cove<g ref="char:EOLhyphen"/>nant in 5 things.</note>
+            </p>
+            <p>
+               <hi>A.</hi> Five things. 1. What a Covenant is. 2. The Kinds of
+Covenants. 3. The Difference between them. 4. The ſpecial things promiſed
+in the Covenant: and 5. How it is confirmed.</p>
+            <p>Q. <hi>What is a Covenant?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is a ſolemn League and contract made between
+Perſons, Two at the leaſt,<note place="margin">I. What a Covenant is.</note>
+wherein they do mutually bind themſelves each to other, in certain Articles,
+to both their Contents.</p>
+            <p>
+               <hi>Q. How many kinds of Covenants are there?</hi>
+            </p>
+            <p>
+               <pb n="18" facs="tcp:97168:11"/>
+               <note place="margin">II. The kinds of
+Cove<g ref="char:EOLhyphen"/>nants.</note>
+               <hi>A.</hi> Eſpecially Two. The Covenant of Works, and the
+Covenant of Grace.</p>
+            <p>
+               <hi>Q. What is the Covenant of Works?</hi>
+            </p>
+            <p>
+               <note place="margin">The Cove<g ref="char:EOLhyphen"/>nant of Works
+defined.</note>
+               <hi>A.</hi> That Covenant which God made with our firſt
+Parents before the Fall, wherein he promiſed to <hi>Adam</hi> and his
+po<g ref="char:EOLhyphen"/>ſterity perfect Happineſs, upon condition of perfect Obedience,
+<hi>Gen.</hi> 2.16, 17.</p>
+            <p>
+               <hi>Q. Why is this called the Covenant of Works?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe it required Works as the Condition of Life,
+<hi>Lev.</hi> 18.5.</p>
+            <p>
+               <hi>Q. Had</hi> Adam <hi>any power to keep that Covenant?</hi>
+            </p>
+            <p>
+               <hi>A. Adam</hi> had power to keep it before the Fall, being
+Created Perfect, <hi>Eccleſ.</hi> 7.29. But ſince the <hi>fall,</hi>
+neither he, nor any Son of <hi>Adam,</hi> none but only Jeſus Chriſt, is
+able to keep this Covenant, being wholly defiled with ſin, and diſenabled
+to any thing that is good, <hi>Rom.</hi> 8.7.</p>
+            <p>
+               <hi>Q. Whether ſhall any man be judged by the Covenant of Works,
+ſeeing he hath no power to keep it?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, every man and woman that is found out of Chriſt
+in a ſtate of unre<g ref="char:EOLhyphen"/>generacy, ſeeing God gave them power to keep it, but
+they by their wickedneſs and unthankfulneſs loſt it.</p>
+            <p>
+               <hi>Q. What is the Covenant of Grace?</hi>
+            </p>
+            <p>
+               <pb n="19" facs="tcp:97168:11"/>
+               <hi>A.</hi> The ſecond Contract,<note place="margin">The Cove<g ref="char:EOLhyphen"/>nant of Grace de<g ref="char:EOLhyphen"/>fined.</note> or agreement which God
+made with Chriſt, and in him with all the Elect, to give them Chriſt, and
+all that is his; even all things pertaining to Life and Godlineſs; and that
+upon condi<g ref="char:EOLhyphen"/>tion of believing, 2 <hi>Pet.</hi> 1.3, 4. <hi>Pſal.</hi> 84.11.
+<hi>Joh.</hi> 3.16.</p>
+            <p>
+               <hi>Q. What differences are there between theſe two, the
+Covenant of Works,</hi>
+               <note place="margin">III. The diffe<g ref="char:EOLhyphen"/>rence be<g ref="char:EOLhyphen"/>tween the
+Covenants.</note> 
+               <hi>and the Covenant of Grace?</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <hi>A.</hi> 1. The Covenant of Works was made
+before the Fall: The Covenant of Grace was made ſince the Fall.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. That promiſed Life upon condition of
+perfect Obedience in our own Perſons: but this upon condition of Faith in
+Chriſt.</p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. That required Obedience, but gave no
+power to perform it: bur this gives power to perform it, <hi>Ezek.</hi> 36.26,
+27.</p>
+            <p>
+               <hi>Q. Why is this called<g ref="char:punc">▪</g> The Covenant of Grace?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe it was nothing but the free Grace of God
+that made it, and that ena<g ref="char:EOLhyphen"/>bleth us to keep it, <hi>Epheſ.</hi> 2.8, 9.</p>
+            <p>
+               <hi>Q. How is the Covenant of Grace diſtin<g ref="char:EOLhyphen"/>guiſhed?</hi>
+               <note place="margin">The Cove<g ref="char:EOLhyphen"/>nant of Grace di<g ref="char:EOLhyphen"/>ſtinguiſh<g ref="char:EOLhyphen"/>ed into the Old, and
+New.</note>
+            </p>
+            <p>
+               <hi>A.</hi> Into the Old, and New, <hi>Heb.</hi> 8.13.</p>
+            <p>
+               <hi>Q. Are there then Two Covenants of Grace?</hi>
+            </p>
+            <pb facs="tcp:97168:12"/>
+            <p>
+               <pb n="20" facs="tcp:97168:13"/>
+               <hi>A.</hi> No, They are both one and the
+ſame Covenant for ſubſtance; they differ only in reſpect of the divers
+diſpenſations of it.</p>
+            <p>
+               <hi>Q. What is the Old Covenant of Grace?</hi>
+            </p>
+            <p>
+               <note place="margin">The Old.</note>
+               <hi>A.</hi> The Revelation and
+Diſpenſation of it before the Coming of Chriſt.</p>
+            <p>
+               <hi>Q. What is the New Covenant?</hi>
+            </p>
+            <p>
+               <note place="margin">The New.</note>
+               <hi>A.</hi> The Revelation, and
+Diſpenſation of it ſince the Coming of Chriſt.</p>
+            <p>
+               <hi>Q. Wherein do theſe two Agree?</hi>
+            </p>
+            <p>
+               <note place="margin">They Agree.</note>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <hi>A.</hi>
+1. In the ſubſtance of it; being one and the ſame promiſe of Life and
+Salvation by Jeſus Chriſt, 1 <hi>Cor.</hi> 10.1, 2, 3, 4.</p>
+            <p>
+               <hi>Q. Wherein elſe?</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               <hi>A.</hi> 2. In the Condition; Faith in the
+free Grace of God, and mercies of Chriſt, <hi>Acts</hi> 15.10, 11.</p>
+            <p>
+               <hi>Q. Wherein do the Old and New Cove<g ref="char:EOLhyphen"/>nant Differ?</hi>
+            </p>
+            <p>
+               <note place="margin">They Differ.</note>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <hi>A.</hi> 1. The New Covenant Differs from the Old, in the Clearneſs
+of it. Chriſt, and the Benefits that come by him are more clearly revealed
+unto us, than unto them, <hi>Rom.</hi> 16.25, 26, 27.</p>
+            <p>Q. <hi>Wherein elſe do they differ?</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               <hi>A.</hi> 2. In the Eaſineſs of it. The
+Old Covenant was more burdenſome, than the Laſt, or New Covenant,
+<hi>Acts</hi> 15.10. <hi>Mat.</hi> 11.28, 29, 30.</p>
+            <p>
+               <pb n="21" facs="tcp:97168:13"/>
+               <hi>Q. Wherein elſe?</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+               <hi>A.</hi> 3. In the Efficacy and power of it.
+The Spirit was not given in ſo large a mea<g ref="char:EOLhyphen"/>ſure to them before the Coming
+of Chriſt, as to believers ſince, <hi>Joh.</hi> 7.39.</p>
+            <p>
+               <hi>Q. What are thoſe things which God promiſeth in the
+Covenant of Grace?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That he will be a God unto us,<note place="margin">IV.
+The things.</note> 
+               <hi>Gen.</hi> 17.7. And a Father unto us, 2 <hi>Cor.</hi>
+6.18. And do all that a God and Father can do for his. Beſtow upon them all
+good things, Spiritual, Temporal, and Eternal, 1 <hi>Tim.</hi> 4.8.
+<hi>Pſal.</hi> 84.11.</p>
+            <p>
+               <hi>Q. What are thoſe ſpecial ſpiritual bleſ<g ref="char:EOLhyphen"/>ſings which
+God promiſed to beſtow upon his?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 1. The Donation,<note place="margin">1. Spiritual
+Bleſſings promiſed.</note> or giving of his Spirit, to work all their
+works in them, and for them<g ref="char:punc">▪</g> 
+               <hi>Ezek.</hi> 36.26, 27.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <hi>Q. What is another?</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               <hi>A.</hi> 2. The ſaving knowledge of
+himſelf, and of his will, <hi>Jer.</hi> 31.34.</p>
+            <p>
+               <hi>Q. What is another?</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+               <hi>A.</hi> 3. Juſtification.</p>
+            <p>
+               <hi>Q. What is Juſtification?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That Act of Gods free Grace where<g ref="char:EOLhyphen"/>by he pardons all
+our ſins,<note place="margin">Juſtifica<g ref="char:EOLhyphen"/>tion defi<g ref="char:EOLunhyphen"/>ned.</note> and accounts us
+righteous in his ſight, only for the Righte<g ref="char:EOLhyphen"/>ouſneſs of Jeſus Chriſt
+imputed to us, and received by faith alone.</p>
+            <p>
+               <pb n="22" facs="tcp:97168:14"/>Q. <hi>What are the parts of
+Juſtification?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Pardon of ſin, and Imputation of
+Righteouſneſs.</p>
+            <p>Q. <hi>Where are theſe promiſed to Belie<g ref="char:EOLhyphen"/>vers<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>
+               <hi>A.</hi> In 2 <hi>Cor.</hi> 5.19. <hi>Rom.</hi> 8.1. 2
+<hi>Cor.</hi> 5.21. <hi>Rom.</hi> 4.6, 7, 8. <hi>Mic.</hi> 7.18, 19, 20.
+<hi>Jer.</hi> 31.3.</p>
+            <p>Q. <hi>What is ano<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her?</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+               <hi>A.</hi> 4. Sanctification.</p>
+            <p>Q. <hi>What is Sanctification?</hi>
+            </p>
+            <p>
+               <note place="margin">Sanctifica<g ref="char:EOLhyphen"/>tion de<g ref="char:EOLhyphen"/>fined.</note>
+               <hi>A.</hi>
+That work of Gods Grace whereby we are renewed in the whole man after the Image
+of God: and are enabled more and more to dye unto Sin, and to live unto
+Righteouſneſs, 1 <hi>Theſ.</hi> 5.23, 24.</p>
+            <p>Q. <hi>What are the parts of it?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Two, Mortification, and Vivificati<g ref="char:EOLhyphen"/>on; Or, a Dying
+unto Sin by vertue of Chriſts Death; and a Living unto Righte<g ref="char:EOLhyphen"/>ouſneſs, by
+Vertue of his Reſurrection.</p>
+            <p>Q. <hi>Where are theſe promiſed to Belie<g ref="char:EOLhyphen"/>vers?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In <hi>Rom.</hi> 6.4, 5. Where they are ſaid to be
+planted into the ſimilitude of Chriſts death and reſurrection,
+<hi>Jer.</hi> 31.33.</p>
+            <p>Q. <hi>What is meant by putting the Law in their inward
+parts?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A diſpoſition of ſpirit to know and learn the
+whole mind and will of God, <pb n="23" facs="tcp:97168:14"/> whatſoever he will have them
+to know, <hi>Act.</hi> 10.33.</p>
+            <p>Q. <hi>What is meant by writing the Law in their hearts?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A diſpoſition of ſpirit to ſubmit, and yield
+obedience to the whole will of God, <hi>Pſal.</hi> 119.6. <hi>Luke</hi> 1.6.
+<hi>Rom.</hi> 6.13.</p>
+            <p>Q. <hi>What is another ſpiritual Bleſſing that God hath
+promiſed?</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+               <hi>A.</hi> 5. Contrition, or Brokenneſs of
+heart, <hi>Ezek.</hi> 11.19.</p>
+            <p>Q. <hi>What is another?</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/>
+               <hi>A.</hi> 6. Growth in Grace, <hi>Mal.</hi>
+4.2. 2 <hi>Cor.</hi> 7.1.</p>
+            <p>Q <hi>What is another?</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/>
+               <hi>A.</hi> 7. Perſeverance in Grace,
+<hi>Jer.</hi> 32.39. 1 <hi>Pet.</hi> 1.4, 5.</p>
+            <p>Q. <hi>Where hath God Promiſed Temporal good things?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In <hi>Pſal.</hi> 84.11. <hi>Mat.</hi> 6.32.
+<hi>Rom.</hi> 8.32.<note place="margin">2. Temporal Bleſſings
+promiſed.</note>
+            </p>
+            <p>Q. <hi>Where hath God promiſed Eternal good things?</hi>
+               <note place="margin">3. Eternal Bleſſings promiſed Signs of being in the Cov<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>nant of Grace. 1 Sign.</note>
+            </p>
+            <p>
+               <hi>A.</hi> In <hi>Joh.</hi> 3.16. <hi>Rom.</hi> 6.22, 23. 2
+<hi>Cor.</hi> 4.17, 18.</p>
+            <p>Q <hi>What ſigns can you give me of your being within the
+Covenant of Grace?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I know that Firſt, by the Knowledge that God hath
+given me of him, and my ſelf, <hi>Jer.</hi> 31.34. <hi>Epheſ.</hi> 5.8.</p>
+            <p>
+               <pb n="24" facs="tcp:97168:15"/>
+               <hi>Q. How elſe do you know it?</hi>
+            </p>
+            <p>
+               <note place="margin">2 Sign.</note>
+               <hi>A.</hi> 2. By the Faith which
+I have in Chriſt; this being the condition of the Co<g ref="char:EOLhyphen"/>venant, <hi>Joh.</hi>
+3.16.</p>
+            <p>
+               <hi>Q. How elſe?</hi>
+            </p>
+            <p>
+               <note place="margin">3 Sign.</note>
+               <hi>A.</hi> 3. By the
+Counterpane, or Copy of the Covenant; the Law of God written in my heart,
+<hi>Jer.</hi> 31.33.</p>
+            <p>
+               <hi>Q. How do you know that the Law of God is written in your
+heart?</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <hi>A.</hi> 1. By the Conformity of my heart to
+the Law of God; the bent of my heart being to pleaſe God in every thing,
+<hi>Acts</hi> 13.22.</p>
+            <p>
+               <hi>Q. How elſe?</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               <hi>A.</hi> 2. By the Oneneſs, Singleneſs,
+and Uprightneſs of my heart, <hi>Ezek.</hi> 11.19.</p>
+            <p>
+               <hi>Q. How elſe?</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+               <hi>A.</hi> 3. By the Softneſs of my heart;
+the Lord having made me to fear, and tremble at his word, and at his
+diſpleaſure, <hi>Ezek.</hi> 11.19, 20.</p>
+            <p>
+               <hi>Q. How elſe?</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+               <hi>A.</hi> 4. By the Newneſs of my heart, in
+that he hath Renewed, Changed, and San<g ref="char:EOLhyphen"/>ctified my heart, <hi>Ezek.</hi>
+36.26.</p>
+            <p>
+               <hi>Q. What other ſign can you give me of your being in the
+Covenant?</hi>
+            </p>
+            <p>
+               <note place="margin">4 Sign.</note>
+               <hi>A.</hi> 4. The Uſe that I
+make of the Co<g ref="char:EOLhyphen"/>venant.</p>
+            <p>
+               <pb n="25" facs="tcp:97168:15"/>
+               <hi>Q. What is one uſe that you are to make
+of the Covenant?</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <hi>A.</hi> 1. To purge my ſelf by it, from
+the remainders of Corruption, and grow in the Graces of the Spirit, 2
+<hi>Cor.</hi> 7.1.</p>
+            <p>
+               <hi>Q. What is another?</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               <hi>A.</hi> 2. To keep cloſe to God in wayes
+of Righteouſneſs and holineſs, <hi>Pſal.</hi> 18.21, 22, 23.</p>
+            <p>
+               <hi>Q. How hath God confirmed the Cove<g ref="char:EOLhyphen"/>nant of Grace,</hi>
+               <note place="margin">V. How God hath con<g ref="char:EOLhyphen"/>firmed the Cove<g ref="char:EOLhyphen"/>nant of Grace.</note> 
+               <hi>in
+which he promiſeth all theſe good things?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He hath confirmed it four wayes.</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. By his word of Promiſe.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. By his Oath, both which are ſet down
+in <hi>Heb.</hi> 6.17, 18.</p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. By the Death and Bloodſhed of
+Chriſt, <hi>Heb.</hi> 9.13, to <hi>ver.</hi> 25.</p>
+            <p n="4">
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. By the Sacraments, which are there<g ref="char:EOLhyphen"/>fore
+called, <hi>ſeals of the righteouſneſs of Faith,</hi> Rom. 4.11.</p>
+            <p>
+               <hi>Q. What is the Sacrament of the Lords Supper.</hi>
+               <note place="margin">Know<g ref="char:EOLhyphen"/>ledge of the Sacra<g ref="char:EOLhyphen"/>ment of the Lords Supper.</note>
+            </p>
+            <p>
+               <hi>A.</hi> The Second Sacrament of the New Teſtament,
+Inſtituted by Chriſt, for the Uſe of true believers, to Sign and Seal up
+to them their ſpiritual nouriſhment and <pb n="26" facs="tcp:97168:16"/> growth in
+Grace, by Chriſt unto Eternal life, <hi>Joh.</hi> 6.54, 55.</p>
+            <p>
+               <hi>Q. What are thoſe Special Ends, where<g ref="char:EOLhyphen"/>fore Chriſt
+Inſtituted it, and we are to Re<g ref="char:EOLhyphen"/>ceive it?</hi>
+            </p>
+            <p>
+               <note place="margin">The Ends of the Sa<g ref="char:EOLhyphen"/>crament.</note>
+               <hi>A.</hi>
+They are Four, <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. To put, and keep us in remembrance of that
+Infinite Love of his in Dying for us, 1 <hi>Cor.</hi> 11.25.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. To teſtifie our thankfulneſs for
+this Love of his. And therefore it is called, <hi>The Cup of Bleſſing,</hi>
+1 Cor. 10.16.</p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. To be a pledge of our Union and
+Communion with him, and one with ano<g ref="char:EOLhyphen"/>ther, in the benefits that come by him, 1
+<hi>Cor.</hi> 10.16.</p>
+            <p n="4">
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. To confirm and ſtrengthen our Faith
+in the Aſſurance of thoſe good things pro<g ref="char:EOLhyphen"/>miſed in the Covenant of
+Grace, eſpecial<g ref="char:EOLhyphen"/>ly the Pardon of Sin, and Eternal Life by Jeſus Chriſt,
+<hi>Rom.</hi> 4.11. <hi>Mat.</hi> 26.28. <hi>Joh.</hi> 6.54. 1 <hi>Cor.</hi>
+11.23, 24, 25, 26.</p>
+            <p>
+               <note place="margin">How the Sacrament ſtreng<g ref="char:EOLhyphen"/>thens faith above
+the Word.</note>
+               <hi>Q. How doth the Sacrament of the Lords Supper ſtrengthen
+Faith above the Miniſtry of the Word?</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <hi>A.</hi> 1. As it Repreſenteth Chriſt and
+his benefits, to the Eye and every Senſe, 1 <hi>Joh.</hi> 1.1, 2. whereas in
+the Miniſtry of the Word, he is Repreſented to the Ear only.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. As it is a Seal annexed to the
+Cove<g ref="char:EOLhyphen"/>nant of Grace, 1 <hi>Joh.</hi> 1.1, 2, 3.</p>
+            <p>
+               <pb n="27" facs="tcp:97168:16"/>Q. <hi>What are the ſigns in the Lords
+Sup<g ref="char:EOLhyphen"/>per?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Bread and Wine,<note place="margin">The Signs.</note>
+and the Actions of the Miniſter, and the Receivers in and about them.</p>
+            <p>Q. <hi>What is ſignified by the Bread and Wine?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Body and Blood of Chriſt.<note place="margin">Things ſig<g ref="char:EOLhyphen"/>nified.</note>
+            </p>
+            <p>Q. <hi>But the Body and Blood of Chriſt are in Heaven, and how
+then can we receive that being here on earth?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Although we receive Chriſt truly and really, yet not
+corporally or carnally, but ſpiritually, by faith, <hi>Joh.</hi> 6.3. Faith
+goeth from Earth to Heaven, and taketh hold on Chriſt, and the Spirit comes
+from Heaven to Earth, and applyeth Chriſt unto us, 1 <hi>Joh.</hi> 4.24.</p>
+            <p>
+               <hi>Q. But the Papiſts ſay, the Bread and Wine are
+tranſubſtantiated, or turned into the very body and blood of Chriſt, and
+there<g ref="char:EOLhyphen"/>fore we receive him not only Spiritually but Corporally.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That is a falſe, groſs, and abſurd Doctrine
+contrary to Scripture, ſenſe and reaſon; 1. Contrary to Scripture which
+expreſly ſaith, The Heavens muſt contain him untill the reſtitution of
+all things, <hi>Acts</hi> 3.21. And at the laſt day, he ſhall deſcend
+from Heaven with a ſhout, 1 <hi>Theſ.</hi> 4.16. <pb n="28" facs="tcp:97168:17"/> 2.
+Contrary to ſenſe, for we ſee and taſte nothing but bread and wine, 1
+<hi>Joh.</hi> 1.12. And Chriſts Body and Blood remained diſtinct from this
+Bread and Wine, when he ſpake thoſe words, <hi>This is my Body;</hi> and 3.
+Contrary to reaſon, Becauſe Chriſt ha<g ref="char:EOLhyphen"/>ving a true Humane Body like to us,
+<hi>Heb.</hi> 2.14. and 4.15. and being aſcended in his body up to Heaven,
+<hi>Mark</hi> 16.19. he cannot be here on Earth too, at the ſame time, for it
+is contrary to the nature of a body to be in many places at once.</p>
+            <p>
+               <note place="margin">The ſigni<g ref="char:EOLhyphen"/>fication of the
+Acti<g ref="char:EOLhyphen"/>ons.</note>
+               <hi>Q. What is ſignified by the Miniſters ta<g ref="char:EOLhyphen"/>king, and
+ſetting apart the Bread and Wine, when he comes to the Table?</hi>
+            </p>
+            <p>
+               <note place="margin">1. Of ſet<g ref="char:EOLhyphen"/>ting apart.</note>
+               <hi>A.</hi> God
+the Fathers ſetting of his Son apart from all Eternity for our Redempti<g ref="char:EOLhyphen"/>on,
+<hi>Heb.</hi> 7.26.</p>
+            <p>
+               <hi>Q. What is ſignified by the Miniſters action of
+Conſecrating, or ſeeking a Bleſ<g ref="char:EOLhyphen"/>ſing upon the Bread and Wine?</hi>
+            </p>
+            <p>
+               <note place="margin">2. Of Con<g ref="char:EOLhyphen"/>ſecration.</note>
+               <hi>A.</hi> God
+the Fathers actual ſending of Chriſt, and Chriſts actual performing the
+great work of Redemption for us, <hi>Gal.</hi> 4.4.</p>
+            <p>
+               <hi>Q. What is ſignified by the Miniſters action of Breaking
+the Bread and Pouring out the Wine?</hi>
+               <note place="margin">3. Of Breaking and
+Pour<g ref="char:EOLhyphen"/>ing out.</note>
+            </p>
+            <p>
+               <hi>A.</hi> All the Sufferings of Chriſt; eſpe<g ref="char:EOLhyphen"/>cially, the
+Breaking of his Body, and <pb n="29" facs="tcp:97168:17"/> the Shedding of his Blood upon
+the Croſs, <hi>Heb.</hi> 9.14.</p>
+            <p>
+               <hi>Q. What is ſignified by the Miniſters Bringing, and
+Offering the Bread and Wine?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> God the Father freely offering of Chriſt,<note place="margin">4.
+Of Bringing and Offer<g ref="char:EOLhyphen"/>ing.</note> and Chriſt freely offering of him<g ref="char:EOLhyphen"/>ſelf,
+with all his Benefits to true Believers.</p>
+            <p>
+               <hi>Q. What is ſignified by the Receivers Re<g ref="char:EOLhyphen"/>ceiving the Bread
+and Wine at the hand of the Miniſter?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> His Believing of the truth of what Chriſt hath done,
+and God hath Promiſed.<note place="margin">5. Of Re<g ref="char:EOLhyphen"/>ceiving.</note>
+            </p>
+            <p>
+               <hi>Q. What is ſignified by your Eating the Bread, and Drinking
+the Wine?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Applying of all that Chriſt hath Done, and God
+hath Promiſed,<note place="margin">6. Of Eat<g ref="char:EOLhyphen"/>ing and Drinking.</note> to my
+ſelf in particular; ſo as to ſay with <hi>Thomas,</hi> Joh. 20.28. <hi>My
+Lord, and my God.</hi>
+            </p>
+            <p>Thus you ſee what thoſe things are that you are to know, that
+you may come as worthy Gueſts to the Lords Table.</p>
+            <div type="part">
+               <pb n="30" facs="tcp:97168:18"/>
+               <head>The Tryal of the ſix Sacra<g ref="char:EOLhyphen"/>mental Graces.</head>
+               <div n="1" type="subpart">
+                  <head>
+                     <milestone type="tcpmilestone" unit="unspecified" n="I"/> The Tryal of Knowledge.</head>
+                  <p>
+                     <hi>Q. WHat is Knowledge?</hi>
+                  </p>
+                  <p>
+                     <note place="margin">Know<g ref="char:EOLhyphen"/>ledge De<g ref="char:EOLhyphen"/>fined.</note>
+                     <hi>A.</hi> It
+is a ſanctified un<g ref="char:EOLhyphen"/>derſtanding, and clear ap<g ref="char:EOLhyphen"/>prehenſion of thoſe things
+revealed in the Scriptures, neceſſary for our ſalvation, <hi>Joh.</hi>
+17.3.</p>
+                  <p>
+                     <hi>Q. What elſe are you to examine about your
+Knowledge?</hi>
+                  </p>
+                  <p>
+                     <note place="margin">Signs of Saving Know<g ref="char:EOLhyphen"/>ledge. 1
+Sign.</note>
+                     <hi>A.</hi> Whether it be a True, Sound, Soul-ſaving
+Knowledge.</p>
+                  <p>
+                     <hi>Q. What ſigns can you give me of that?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> 1. One Sign of true, ſaving Know<g ref="char:EOLhyphen"/>ledge is this,
+That it Prizeth the Know<g ref="char:EOLhyphen"/>ledge of God, in, and above all other Knowledge, 1
+<hi>Cor.</hi> 2.2. <hi>Phil.</hi> 3.8.</p>
+                  <p>
+                     <hi>Q. What is another Mark of ſaving Knowledge?</hi>
+                  </p>
+                  <p>
+                     <pb n="31" facs="tcp:97168:18"/>
+                     <hi>A.</hi> 2. This,<note place="margin">2
+Sign.</note> That it makes a man to ap<g ref="char:EOLhyphen"/>prove of the goodneſs of what he
+knows, <hi>Rom.</hi> 7.16.</p>
+                  <p>
+                     <hi>Q. What is another Mark?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> 3. That it is unlimited;<note place="margin">3
+Sign.</note> it ſets no bounds to it ſelf; True Knowledge makes a man
+willing to let in any light, to know whatſoever God will have him to know,
+<hi>Acts</hi> 9.6. <hi>Acts</hi> 10.33. <hi>Heb.</hi> 6.7.</p>
+                  <p>
+                     <hi>Q. What is another Mark?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> 4. When it is Experimental,<note place="margin">4
+Sign.</note> ſo as to make the ſoul to have ſenſe and feeling of what
+it knows, <hi>Phil.</hi> 1.9, 10.</p>
+                  <p>
+                     <hi>Q. What is another Mark?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> 5. When it is a Changing,<note place="margin">5
+Sign.</note> and Renew<g ref="char:EOLhyphen"/>ing Knowledge, 2 <hi>Cor.</hi> 3.18. <hi>Rom.</hi>
+12.2.</p>
+                  <p>
+                     <hi>Q. What is another Mark?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> 6. When it is Practical;<note place="margin">6
+Sign.</note> when it makes the ſoul careful to practiſe what he knows,
+<hi>Acts</hi> 9.6. <hi>Iſa.</hi> 2.3. <hi>Pſal.</hi> 86.11.
+<hi>Pſal.</hi> 119.34. <hi>Pſal.</hi> 111.10.</p>
+                  <p>
+                     <hi>Q. What is another Mark?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> 7. When it is a Humbling Know<g ref="char:EOLhyphen"/>ledge;<note place="margin">7 Sign.</note> ſo as to make a man to walk hum<g ref="char:EOLhyphen"/>bly with God; and
+the more he knows, the more humble he is, <hi>Prov.</hi> 30.2. <hi>James</hi>
+3.13. <hi>Job</hi> 42.5, 6.</p>
+                  <p>
+                     <hi>Q. What is another Mark?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> 8. When it is Communicative of it ſelf to
+others,<note place="margin">8 Sign.</note> out of a deſire of their 
+<pb n="32" facs="tcp:97168:19"/> ſpiritual good, <hi>Pſal.</hi> 34.11. <hi>Acts</hi>
+26.29.</p>
+                  <p>
+                     <hi>Q. What is another Mark?</hi>
+                  </p>
+                  <p>
+                     <note place="margin">9 Sign. The Affe<g ref="char:EOLhyphen"/>ctions that accompa<g ref="char:EOLhyphen"/>ny
+ſaving know<g ref="char:EOLhyphen"/>ledge.</note>
+                     <hi>A.</hi> 9. When it is affectionate, or a
+heart-affecting knowledge, <hi>Pſal.</hi> 119.15, 16.</p>
+                  <p>
+                     <hi>Q. What are thoſe Affections?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> 1. The Fear of God, <hi>Pſal.</hi> 86.11.</p>
+                  <p>
+                     <hi>Q. What is another?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                     <hi>A.</hi> 2. The Love of God, 1
+<hi>Joh.</hi> 4.7, 8.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                     <hi>Q. What is another?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                     <hi>A.</hi> 3. Affiance in God,
+<hi>Pſal.</hi> 9.10.</p>
+                  <p>
+                     <hi>Q. What is another?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+                     <hi>A.</hi> 4. Zeal for God, <hi>Dan.</hi>
+11.32.</p>
+                  <p>
+                     <hi>Q. What is another Mark of Saving Knowledge?</hi>
+                  </p>
+                  <p>
+                     <note place="margin">10 Sign.</note>
+                     <hi>A.</hi> 10. When it is a
+Growing, or a Perſevering Knowledge, <hi>Phil.</hi> 1.9, 10. 2 <hi>Pet.</hi>
+3.17, 18.</p>
+                  <p>Thus of Knowledge.</p>
+               </div>
+               <div n="2" type="subpart">
+                  <head>
+                     <milestone type="tcpmilestone" unit="unspecified" n="II"/> The Tryal of Faith.</head>
+                  <p>
+                     <hi>Q. WHat is the ſecond Grace to be examined before the
+Sacra<g ref="char:EOLhyphen"/>ment?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> It is Faith.</p>
+                  <p>
+                     <hi>Q. What is Faith?</hi>
+                  </p>
+                  <p>
+                     <pb n="17" facs="tcp:97168:19"/>
+                     <hi>A.</hi> A ſpecial and ſupernatural
+Gift of God, wrought by the Spirit,<note place="margin">Faith de<g ref="char:EOLhyphen"/>fined.</note>
+through the Miniſtry of the Word, in the hearts of the Elect, whereby they
+come to know, and aſſent unto, to take, and rely only on the Lord Jeſus
+Chriſt for ſalvation, <hi>Joh.</hi> 1.12. <hi>Acts</hi> 16.31.</p>
+                  <p>
+                     <hi>Q. How doth the Spirit work Faith in and by the Miniſtry
+of the Word?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Ordinarily he prepares the heart by the Law, and
+worketh it by the Goſpel.<note place="margin">How the Spirit works faith by the
+Word. How the Law pre<g ref="char:EOLhyphen"/>pares the heart for Faith.</note>
+                  </p>
+                  <p>
+                     <hi>Q. How doth the Miniſtry of the Law prepare the heart
+for Faith?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Four wayes.</p>
+                  <p n="1">
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. By diſcovering the ſinful, and
+miſe<g ref="char:EOLhyphen"/>rable condition of man by Nature.</p>
+                  <p n="2">
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. By convincing him, that it is his
+condition as well as others, <hi>Joh.</hi> 16.8.</p>
+                  <p n="3">
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. By humbling him under the
+conſide<g ref="char:EOLhyphen"/>ration of it, <hi>Acts</hi> 2.37.</p>
+                  <p n="4">
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. By working in him a holy deſpair
+or hopeleſneſs of being freed from it by any thing that he can do, or
+ſuffer.</p>
+                  <p>
+                     <hi>Q. How doth the Goſpel produce Faith?</hi>
+                     <note place="margin">How the Goſpel does produce Faith.</note>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Four wayes.</p>
+                  <p n="1">
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. By diſcovering of Chriſt, the
+Reme<g ref="char:EOLhyphen"/>dy.</p>
+                  <p n="2">
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. By convincing the ſoul, that he
+is an Alſufficient Remedy for him, as well as for others, <hi>Joh.</hi>
+16.8.</p>
+                  <p n="3">
+                     <pb n="34" facs="tcp:97168:20"/>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. By working in
+him, a high prizing of him above all other things in the world, 1 <hi>Pet.</hi>
+2.7.</p>
+                  <p n="4">
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. A Reſolution to ſell, and part
+with all for him, <hi>Luke</hi> 18.22.</p>
+                  <p>
+                     <note place="margin">True Faith is known by three ſorts of
+Signs.</note>
+                     <hi>Q. How do you know that you have truth of Faith?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> By the Antecedents, Concomitants and
+Conſequences of it.</p>
+                  <p>
+                     <note place="margin">I. The Ante<g ref="char:EOLhyphen"/>cedents.</note>Q. <hi>What are
+the Antecedents; or thoſe thing<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+which go before Faith?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                     <hi>A.</hi> 1. A ſight and ſenſe of
+our want of Chriſt, and need of Chriſt, and of the worth of Chriſt,
+<hi>Joh</hi> 12.46. <hi>Luke</hi> 19.10. <hi>Mat.</hi> 11.28.</p>
+                  <p>Q. <hi>What elſe goeth before Faith?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                     <hi>A.</hi> 2. An earneſt deſire of an
+Intereſt in him above all other things, <hi>Revel.</hi> 22.17. 1
+<hi>Cor.</hi> 2.2.</p>
+                  <p>Q. <hi>What elſe goeth before Faith?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                     <hi>A.</hi> 3. A willingneſs, and
+readineſs to part with every ſin, and any thing for Chriſt, <hi>Luke</hi>
+18.22.</p>
+                  <p>
+                     <note place="margin">II. The Con<g ref="char:EOLhyphen"/>comitants of Faith.</note>Q.
+<hi>What are the Concomitants of Faith, or thoſe things which accompany
+it?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                     <hi>A.</hi> 1. An emptying of the ſoul of
+it ſelf, and taking it wholly off from its own Righteouſneſs, to reſt,
+and rely only on the Righteouſneſs of Chriſt for ſalvation,
+<hi>Phil.</hi> 3.7, 8, 9.</p>
+                  <p>
+                     <pb n="35" facs="tcp:97168:20"/>Q. <hi>What elſe?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                     <hi>A.</hi> 2. A Receiving of Chriſt upon
+his own terms in all his Offices, not only as his Jeſus, but alſo as his
+Lord and Chriſt, his Mediator, King, Prieſt and Prophet, <hi>Rom.</hi>
+13.14. <hi>Acts</hi> 16.31. <hi>Acts</hi> 2.36.</p>
+                  <p>Q. <hi>What elſe?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                     <hi>A.</hi> 3. Believing of, and cloſing
+with the whole mind and will of God, <hi>Act.</hi> 24.14.</p>
+                  <p>Q. <hi>What elſe?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+                     <hi>A.</hi> 4. A particular application of
+Chriſt, and the Promiſes in him, <hi>Joh.</hi> 20.28.</p>
+                  <p>Q. <hi>What elſe?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+                     <hi>A.</hi> 5. Union, and Communion with
+Je<g ref="char:EOLhyphen"/>ſus Chriſt, in all that is his, 1 <hi>Cor.</hi> 6.17. 1 <hi>Joh.</hi>
+1.3, 4.</p>
+                  <p>Q. <hi>What elſe?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="6"/>
+                     <hi>A.</hi> 6. Peace, and Joy, and Hope in
+be<g ref="char:EOLhyphen"/>lieving, <hi>Rom.</hi> 5.3, 4. <hi>Rom.</hi> 15.13.</p>
+                  <p>Q. <hi>Have all true Believers this Peace and Joy in
+Believing?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Yes, in the Root, but not in the Fruit; in the
+Cauſe, but not in the Effect, 1 <hi>Pet.</hi> 1.6, 7.</p>
+                  <p>Q. <hi>Is it every kind of Peace, and Joy, and Hope that
+evidenceth Faith?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> No, but only that Peace, and Joy that ariſeth
+from a fore-going trouble for ſin, <hi>Acts</hi> 16.28, 29, 30. compared with
+<hi>verſ.</hi> 34. And ſuch a Hope as purifieth <pb n="20" facs="tcp:97168:21"/> the
+heart and life from the love of ſin, 1 <hi>Joh.</hi> 3.3.</p>
+                  <p>Q. <hi>What elſe accompanyeth Faith?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="7"/>
+                     <hi>A.</hi> 7. A Combate, and conflict with
+Corruption, eſpecially with unbelief, <hi>Gal.</hi> 5.17. <hi>Mark</hi>
+9.24.</p>
+                  <p>
+                     <note place="margin">III. The Con<g ref="char:EOLhyphen"/>ſequences of Faith.</note>Q.
+<hi>What are the Conſequences of it, or thoſe things which follow
+Faith?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> They are Divers. In reſpect of God, and of
+Chriſt, and of the Spirit, and of the Word, and of the World, and of our
+Selves, and of Others.</p>
+                  <p>
+                     <note place="margin">I. In Reſpect of God.</note>Q. <hi>What
+doth Faith work in reſpect of God?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                     <hi>A.</hi> 1. Thankfulneſs to God for
+Jeſus Chriſt, and all his mercies in him, <hi>Pſal.</hi> 103.1, 2. 1
+<hi>Pet.</hi> 1.3, 4, 5.</p>
+                  <p>
+                     <hi>Q. What elſe?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                     <hi>A.</hi> 2. Repentance from dead works,
+<hi>Acts</hi> 19.18, 19. <hi>Mark</hi> 1.15.</p>
+                  <p>Q. <hi>What elſe?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                     <hi>A.</hi> 3. Love to God, <hi>Gal.</hi>
+5.6. 1 <hi>Joh.</hi> 4.19.</p>
+                  <p>Q. <hi>W<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>at
+elſe?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+                     <hi>A.</hi> 4. Prayer to God with boldneſs
+and confidence, <hi>Zech.</hi> 12.10. <hi>Epheſ.</hi> 3.11, 12.</p>
+                  <p>Q. <hi>What elſe?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+                     <hi>A.</hi> 5. An endeavour to walk with
+God, and approve our ſelves to his all-ſeeing <pb n="21" facs="tcp:97168:21"/> eye, as
+<hi>Enoch, Heb.</hi> 11.5. and <hi>Moſes, verſ.</hi> 27.</p>
+                  <p>Q. <hi>What doth Faith work in reſpect of Jeſus
+Chriſt?</hi>
+                     <note place="margin">II. In reſpect of Chriſt.</note>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                     <hi>A.</hi> 1. It makes him Precious to the
+Soul, 1 <hi>Pet.</hi> 2.7.</p>
+                  <p>Q. <hi>What elſe?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                     <hi>A.</hi> 2. A Conformity to him, 1
+<hi>Joh.</hi> 2.6.</p>
+                  <p>Q. <hi>What doth Faith work in reſpect of the Spirit of
+Chriſt?</hi>
+                     <note place="margin">III. In reſpect of the Spi<g ref="char:EOLhyphen"/>rit.</note>
+                  </p>
+                  <p>
+                     <hi>A.</hi> A care not to Grieve him, <hi>Epheſ.</hi> 4.3.
+and <hi>verſ.</hi> 30.</p>
+                  <p>Q. <hi>What doth Faith work in reſp<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ct of the Word of God?</hi>
+                     <note place="margin">IV. In
+reſpect of the Word.</note>
+                  </p>
+                  <p>
+                     <hi>A.</hi> A high prizing of it, and an endea<g ref="char:EOLhyphen"/>vour to profit
+by it, <hi>Rom.</hi> 10.13, 14, 15. 1 <hi>Pet.</hi> 2.2.</p>
+                  <p>Q. <hi>What doth Faith work in reſpect of the
+World?</hi>
+                     <note place="margin">V. In reſpect of the World.</note>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                     <hi>A.</hi> A contempt of it, and Victory
+over it, 1 <hi>Joh.</hi> 5.4. <hi>Heb.</hi> 11.24, 25, 26.</p>
+                  <p>Q <hi>What elſe?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                     <hi>A.</hi> A bold Confeſſion, and
+profeſſion of it before the World, <hi>Rom.</hi> 10.10.</p>
+                  <p>Q. <hi>What doth Faith work in reſpect of Others?</hi>
+                     <note place="margin">VI. In reſpect of others.</note>
+                  </p>
+                  <p>
+                     <hi>A.</hi> An unfeigned Love to all, eſpecially to the
+Saints, <hi>Gal.</hi> 5.6. 1 <hi>Job.</hi> 4.20, 21. <hi>Col.</hi> 1.3, 4.</p>
+                  <p>
+                     <pb n="38" facs="tcp:97168:22"/>
+                     <note place="margin">VII. In reſpect of
+our ſelves.</note>Q. <hi>What doth Faith work in reſpect of our
+Selves?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                     <hi>A.</hi> 1. It purifieth the heart from
+the Love of all ſin, <hi>Acts</hi> 15.8, 9.</p>
+                  <p>Q. <hi>What elſe?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                     <hi>A.</hi> 2. A thorow change of the whole
+man, 2 <hi>Cor.</hi> 5.17.</p>
+                  <p>Q. <hi>What elſe?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                     <hi>A.</hi> 3. Humility, and lowlineſs of
+mind, <hi>Rom.</hi> 3.27. 1 <hi>Cor.</hi> 15.9, 10.</p>
+                  <p>Q. <hi>What elſe?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+                     <hi>A.</hi> 4. Contentation in every
+eſtate and condition, <hi>Phil.</hi> 4.11, 12.</p>
+                  <p>Q. <hi>What elſe?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+                     <hi>A.</hi> 5. Patience in Suffering from,
+and for God, <hi>James</hi> 1.2, 3.</p>
+                  <p>Q. <hi>What elſe?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="6"/>
+                     <hi>A.</hi> 6. Growth in Grace,
+<hi>Rom.</hi> 1.16, 17. 2 <hi>Theſ.</hi> 1.3.</p>
+                  <p>Q. <hi>What elſe?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="7"/>
+                     <hi>A.</hi> 7. Perſeverance in Grace, in
+well-doing, and waiting upon God, <hi>Heb.</hi> 3.12, 13, 14. <hi>Rev.</hi>
+2.10. <hi>Iſa.</hi> 28.16.</p>
+                  <p>Thus of Faith.</p>
+               </div>
+               <div n="3" type="subpart">
+                  <pb n="39" facs="tcp:97168:22"/>
+                  <head>The Tryal of Repentance.<milestone type="tcpmilestone" unit="unspecified" n="III"/>
+                  </head>
+                  <p>Q. <hi>WHat is the Third Sacramental Grace to be examined,
+before you come to the Sacrament?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Repentance.</p>
+                  <p>Q. <hi>What is Repentance?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> It is a ſpecial Gift of God,<note place="margin">Repen<g ref="char:EOLhyphen"/>tance de<g ref="char:EOLhyphen"/>fined.</note> wrought by the Spirit, in the
+Miniſtry of the Word, ariſing from knowledge of, and faith in, the mercy of
+God in Jeſus Chriſt: work<g ref="char:EOLhyphen"/>ing godly ſorrow for ſin, and a thorow change
+of heart and life, from the Love and Reign of all ſin, to the life and power
+of Godlineſs, <hi>Acts</hi> 26.18. 2 <hi>Cor.</hi> 5.17. <hi>Rom.</hi> 6.11,
+12, 13, 14.</p>
+                  <p>Q. <hi>What ſigns can you give me of ſaving
+Repentance?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> We may know it,<note place="margin">Signs of true
+Re<g ref="char:EOLhyphen"/>pentance.</note> 1. By the Riſe of it. 2. By the extent o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> it. 3. By the Cure of it. 4. By the
+Fruits and effects of it: and 5. By the continuance of it.</p>
+                  <p>Q. <hi>How by the Riſe of it?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> When it ariſeth from a ſight and
+apprehenſion of Gods mercy and goodneſs in Chriſt. This made
+<hi>Mary</hi> to Repent,<note place="margin">I. Sign.</note> 
+                     <hi>Luke</hi> 7.37,
+38, and 47. And this made <hi>David</hi> to Repent, <hi>Pſal.</hi> 130.3, 4.
+And <pb n="24" facs="tcp:97168:23"/> this made <hi>Peter</hi> to Repent, <hi>Luke</hi>
+22.61, 62. And this made the Iſraelites to Re<g ref="char:EOLhyphen"/>pent, <hi>Hoſea</hi> 6.1, 2.
+And this Motive to it, the Lord uſeth in <hi>Iſa.</hi> 55.6, 7, 8, 9.</p>
+                  <p>Q. <hi>How elſe do you know the truth of y<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ur Repentance?</hi>
+                  </p>
+                  <p>
+                     <note place="margin">II. Sign.</note>
+                     <hi>A.</hi> By the Extent
+of it. When the whole man is ſet againſt all ſin. When it is inward in
+the ſoul, as well as outward in the Body, <hi>Joel</hi> 2.13. <hi>Jer.</hi>
+4.14. When alſo it is for all ſins, one as well as another, <hi>Ezek.</hi>
+18.30, 31.</p>
+                  <p>
+                     <hi>Q. How elſe do you know the truth of your
+Repentance?</hi>
+                  </p>
+                  <p>
+                     <note place="margin">III. Sign.</note>
+                     <hi>A.</hi> By the Cure of
+it. When the ſame means that humbleth the ſoul, com<g ref="char:EOLhyphen"/>forts the ſoul: as,
+The Hand of the Lord, <hi>Hoſea</hi> 6.1. And the Blood of Chriſt,
+<hi>Epheſ.</hi> 2.13, 14, 15.</p>
+                  <p>
+                     <hi>Q. How elſe do you know the truth of your
+Repentance?</hi>
+                  </p>
+                  <p>
+                     <note place="margin">IV. Sign.</note>
+                     <hi>A.</hi> By the Fruits
+and Effects of it.</p>
+                  <p>
+                     <hi>Q What is one?</hi>
+                  </p>
+                  <p>
+                     <note place="margin">1 Fruit.</note>
+                     <hi>A.</hi> 1. A Godly
+ſorrow for ſin, 2 <hi>Cor.</hi> 7 10.</p>
+                  <p>
+                     <note place="margin">Signs of Godly Sor<g ref="char:EOLhyphen"/>row.</note>
+                     <hi>Q When is
+your ſorrow a Godly ſor<g ref="char:EOLhyphen"/>row?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                     <hi>A.</hi> 1. When it is rather for ſin
+againſt God, than for Puniſhment from God, <hi>Luke</hi> 15.21.
+<hi>Pſal.</hi> 51.4.</p>
+                  <p n="2">
+                     <pb n="25" facs="tcp:97168:23"/>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. When it is for
+one ſin, as well as for another.</p>
+                  <p n="3">
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. When it is for Sin in health and
+proſperity, as well as in ſickneſs and adver<g ref="char:EOLhyphen"/>ſity, <hi>Pſal.</hi>
+38.4, 5.</p>
+                  <p n="4">
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. When it is for ſin in others, as
+well as in our ſelves, 2 <hi>Pet.</hi> 2.7, 8.</p>
+                  <p n="5">
+                     <milestone type="tcpmilestone" unit="unspecified" n="5"/> 5. We may know it by thoſe ſeven
+fruits of it in 2 <hi>Cor.</hi> 7.11.</p>
+                  <p>Q. <hi>What is another Fruit of true Re<g ref="char:EOLhyphen"/>pentance?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> 2. An unfeigned Hatred of ſin.<note place="margin">2 Fruit.</note>
+                  </p>
+                  <p>Q. <hi>When is your Hatred of ſin an un<g ref="char:EOLhyphen"/>feigned
+hatred?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                     <hi>A.</hi> 1. When I hate it becauſe it
+is con<g ref="char:EOLhyphen"/>trary to the holy Nature and Law of God.</p>
+                  <p n="2">
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. When I hate all, and every ſin,
+<hi>Pſal.</hi> 119.104.</p>
+                  <p n="3">
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. When I hate ſin whereſoever I
+ſee it in others, <hi>Pſal</hi> 101.3. <hi>Rev.</hi> 2.6.</p>
+                  <p>Q. <hi>What is another Fruit?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> 3. When it makes a man willing to take to
+himſelf,<note place="margin">3 Fruit.</note> and carry the ſhame of his
+ſin, ſo that God may be honoured, <hi>Rom.</hi> 6.21. <hi>Jer.</hi> 31.19.
+<hi>Ezra</hi> 9.6. For it is that which God promiſeth to his people,
+<hi>Ezek.</hi> 16.60, 61, 62, 63.</p>
+                  <p>Q. <hi>What is another Fruit of Repen<g ref="char:EOLhyphen"/>tance?</hi>
+                  </p>
+                  <p>
+                     <pb n="42" facs="tcp:97168:24"/>
+                     <note place="margin">4
+Fruit.</note>
+                     <hi>A.</hi> 4. An Univerſal forſaking and turn<g ref="char:EOLhyphen"/>ing from all
+ſin, not only from the Action of it: but alſo from the motions,
+tempta<g ref="char:EOLhyphen"/>tions, and occaſions of it, <hi>Ezek.</hi> 18.31. <hi>Prov.</hi>
+28.13.</p>
+                  <p>Q. <hi>What other Fruits are there of True
+Repentance?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                     <hi>A.</hi> Theſe: Firſt of all; A
+remem<g ref="char:EOLhyphen"/>brance of ſin, ſo as to humble and abaſe our ſelves for it,
+<hi>Pſal.</hi> 51.3. <hi>Pſal.</hi> 119.59. contrary to thoſe in
+<hi>Jer.</hi> 8.12.</p>
+                  <p n="2">
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. Aggravation of ſin: as
+<hi>Paul,</hi> 1 <hi>Tim.</hi> 1.13.</p>
+                  <p n="3">
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. A particular, free and full
+confeſſion of ſin, 1 <hi>Tim.</hi> 1.13.</p>
+                  <p n="4">
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. A Self-loathing for ſin,
+<hi>Ezek.</hi> 20.43. <hi>Job</hi> 42.5, 6.</p>
+                  <p n="5">
+                     <milestone type="tcpmilestone" unit="unspecified" n="5"/> 5. Self-cnodemnation for ſin, 1
+<hi>Cor.</hi> 11.31.</p>
+                  <p n="6">
+                     <milestone type="tcpmilestone" unit="unspecified" n="6"/> 6. Satisfaction, though not to God,
+yet to men, for the wrong done unto them, <hi>Luke</hi> 19.8.</p>
+                  <p n="7">
+                     <milestone type="tcpmilestone" unit="unspecified" n="7"/> 7. A new life, <hi>Ezek.</hi> 18.31,
+32. <hi>Mat.</hi> 8.9 10.</p>
+                  <p n="8">
+                     <milestone type="tcpmilestone" unit="unspecified" n="8"/> 8. Growing ſtill better, 2
+<hi>Cor.</hi> 7.1.</p>
+                  <p n="9">
+                     <milestone type="tcpmilestone" unit="unspecified" n="9"/> 9. An endeavour to bring others to
+Re<g ref="char:EOLhyphen"/>pentance, <hi>Iſa.</hi> 2.3. <hi>Hoſ.</hi> 6.1. <hi>Ezek.</hi> 18.31,
+32.</p>
+                  <p>Q. <hi>How elſe do you know the truth of your
+Repentance?</hi>
+                  </p>
+                  <p>
+                     <pb n="43" facs="tcp:97168:24"/>
+                     <hi>A.</hi> By the continuance of it;<note place="margin">V. Sign.</note> when it is a daily Repentance, and continues from
+the firſt day we begin to Repent, unto our laſt day, <hi>Epheſ.</hi>
+4.26, 27.</p>
+                  <p>Thus of Repentance.</p>
+               </div>
+               <div n="4" type="subpart">
+                  <head>The Tryal of Obedience.<milestone type="tcpmilestone" unit="unspecified" n="IV"/>
+                  </head>
+                  <p>Q. <hi>WHat is the Fourth Sacramental Grace to be Examined
+before the Sacrament?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Our Obedience.</p>
+                  <p>Q. <hi>What is Obedience?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> It is either Legal, or Evangelical.</p>
+                  <p>Q. <hi>What is Legal Obedience?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Legal Obedience, it is a perfect,<note place="margin">Legal O<g ref="char:EOLhyphen"/>bedience defined.</note> compleat Obedience, of the whole
+man, by his own ſtrength, in his own perſon, to the whole Law of God.</p>
+                  <p>Q. <hi>What is Evangelical Obedie<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ce?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> It is an unfeigned deſire,<note place="margin">Evangeli<g ref="char:EOLhyphen"/>cal Obedi<g ref="char:EOLhyphen"/>ence de<g ref="char:EOLhyphen"/>fined.</note> ſeconded with our
+earneſt, and uttermoſt endeavour (in and by the Grace and ſtrength of
+Chriſt) to yield univerſal, ſincere and conſtant obedience to the whole
+revealed mind and will of God; humbling us under our failings and defects, and
+going out of our ſelves, deſiring to be found in the <pb n="28" facs="tcp:97168:25"/>
+Righteouſneſs of Chriſt, and to be accep<g ref="char:EOLhyphen"/>ted only in, and for and through
+the com<g ref="char:EOLhyphen"/>pleat and perfect obedience of our Lord Jeſus Chriſt.</p>
+                  <p>
+                     <note place="margin">Sign of ſa<g ref="char:EOLhyphen"/>ving obe<g ref="char:EOLhyphen"/>dience.</note>Q.
+<hi>How do you know that your obedi<g ref="char:EOLhyphen"/>ence is ſound, ſaving, and acceptable
+Obedi<g ref="char:EOLhyphen"/>ence?</hi>
+                  </p>
+                  <p>
+                     <note place="margin">1 Sign.</note>
+                     <hi>A.</hi> 1. By the kind of
+it. When it is an Evangelical, or Goſpel obedience.</p>
+                  <p>Q. <hi>When is it a Goſpel obedience?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> When it is according to the Rules of the Goſpel,
+<hi>Phil.</hi> 1.27. <hi>Phil.</hi> 3.16.</p>
+                  <p>Q. <hi>What is one Rule of the Goſpel?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                     <hi>A.</hi> 1. When it is done in the Name
+of Chriſt, <hi>Col.</hi> 3.17.</p>
+                  <p>Q. <hi>What is another Rule?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                     <hi>A.</hi> 2. When it is done in Faith, 1
+<hi>Pet.</hi> 2.5, 6. <hi>Heb.</hi> 11.6.</p>
+                  <p>Q. <hi>What is another Rule?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                     <hi>A.</hi> 3. When it is done in the
+ſtrength of Chriſt, <hi>Joh.</hi> 15.5.</p>
+                  <p>Q. <hi>What is another?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+                     <hi>A.</hi> 4. When it is done in Love and
+thankfulneſs to Jeſus Chriſt, that hath done all for us, 2 <hi>Cor.</hi>
+5.14, 15. And in Love to the Saints, 1 <hi>Joh.</hi> 4.21. 1 <hi>Cor.</hi>
+13.4, 5, 6, 7.</p>
+                  <p>Q. <hi>How elſe do you know the truth of y<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ur Obedience?</hi>
+                  </p>
+                  <p>
+                     <pb n="29" facs="tcp:97168:25"/>
+                     <hi>A.</hi> 2. By the Riſe of it.<note place="margin">2 Sign.</note> When it is well Grounded.</p>
+                  <p>Q. <hi>When is your Obedience well Groun<g ref="char:EOLhyphen"/>ded?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                     <hi>A.</hi> 1. When it is grounded upon the
+mind and will of God, <hi>Pſal.</hi> 119.33, 34.</p>
+                  <p>Q. <hi>When elſe it is well grounded?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                     <hi>A.</hi> 2. When it is grounded upon the
+Authority and the Command of God, <hi>Pſal.</hi> 119 4, 5.</p>
+                  <p>Q. <hi>When elſe it is well grounded?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                     <hi>A.</hi> 3. When it ariſeth from an
+inward principle of Grace, or Spiritual Life, <hi>Pſal.</hi> 40.8.
+<hi>Jer.</hi> 31.33.</p>
+                  <p>Q. <hi>What is another ſign of ſound and ſaving
+Obedience?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> 3. When the Example of it is,<note place="margin">3
+Sign.</note> The Life of Chriſt, <hi>Joh.</hi> 13.15. 1 <hi>Joh.</hi> 2.6.
+And the Life of the Saints, <hi>Heb.</hi> 6.11, 12.</p>
+                  <p>Q. <hi>How elſe do you know t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e truth of your Obedience?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> 4. By the ends of it.<note place="margin">4
+Sign.</note>
+                  </p>
+                  <p>Q. <hi>What ought to be the ends of y<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ur Obedience?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                     <hi>A.</hi> 1. The Glory of God,
+<hi>Phil.</hi> 1.20, 21. 1 <hi>Cor.</hi> 10.31.</p>
+                  <p n="2">
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. The Publick good, 1 <hi>Cor.</hi>
+10.33. <hi>Phil.</hi> 2.4.</p>
+                  <p>
+                     <pb n="46" facs="tcp:97168:26"/>
+                     <hi>Q. How elſe do you know the truth of
+your Obedien<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e?</hi>
+                  </p>
+                  <p>
+                     <note place="margin">5 Sign.</note>
+                     <hi>A.</hi> 5. By the
+Qualities, and Properties of it.</p>
+                  <p>
+                     <hi>Q. What is the firſt property of true
+Obedience?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                     <hi>A.</hi> 1. It is Willing, without
+Conſtraint, 1 <hi>Chron.</hi> 28.9. <hi>Pſal.</hi> 110.3.</p>
+                  <p>
+                     <hi>Q. What is a ſecond?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                     <hi>A.</hi> 2. It is cheerful without
+lumpiſh<g ref="char:EOLhyphen"/>neſs, <hi>Pſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l.</hi>
+122.1. <hi>Joh.</hi> 4.28, 29.</p>
+                  <p>
+                     <hi>Q. What is a Third?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                     <hi>A.</hi> 3. I<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> is Diligent, without Slothful<g ref="char:EOLhyphen"/>neſs, <hi>Deut.</hi>
+6.17, 18. <hi>Jer.</hi> 17.24, 25, 26.</p>
+                  <p>
+                     <hi>Q. What is a Fourth?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+                     <hi>A.</hi> 4. It is Zealous, without
+Lukewarm<g ref="char:EOLhyphen"/>neſs, <hi>Rom.</hi> 12.11. <hi>Rev.</hi> 3.19.</p>
+                  <p>
+                     <hi>Q. Wha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> is a
+Fifth?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+                     <hi>A.</hi> 5. It is ſpeedy, without
+delay, <hi>Pſal.</hi> 119.60.</p>
+                  <p>
+                     <hi>Q Wh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t is a
+Sixth?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="6"/>
+                     <hi>A.</hi> 6. It is Sincere, without
+hypocriſie <hi>Joſh.</hi> 24.14. <hi>Joh.</hi> 4.24.</p>
+                  <p>
+                     <hi>Q. What is a Seventh?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="7"/>
+                     <hi>A.</hi> 7. It is Univerſal, without
+Partiali<g ref="char:EOLhyphen"/>ty; and that in reſpect of the Subject, and Object, 2 <hi>Cor</hi> 5
+17. <hi>Joh.</hi> 15.14. <hi>Deut</hi> 26 16 <hi>Pſal</hi> 119.6</p>
+                  <p>
+                     <hi>Q. What is the laſt?</hi>
+                  </p>
+                  <p>
+                     <pb n="47" facs="tcp:97168:26"/>
+                     <hi>
+                        <milestone type="tcpmilestone" unit="unspecified" n="8"/> A.</hi> 8. It is
+conſtant without Apoſtaſie, 1 <hi>Kings</hi> 8.40. <hi>Mat.</hi> 10.22. 1
+<hi>C<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r.</hi> 15.58. <hi>Rev.</hi>
+2.10.</p>
+                  <p>Q. <hi>What other ſigns are there of the truth
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>f Obedience?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Theſe two: firſt, It is abſolute,<note place="margin">2.
+Other ſigns.</note> without demanding of God a Reaſon of what he hath
+commanded us. As <hi>Abra<g ref="char:EOLhyphen"/>ham, Heb.</hi> 11.8.</p>
+                  <p>And the Reaſon of it is, Becauſe God is the Soveraign Lord
+of all his Creatures, and may Command what he will: for his Will, or his Law is
+a Rule of Righteouſ<g ref="char:EOLhyphen"/>neſs.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, When it is Reſolute without
+Doubting, as <hi>Joſhua</hi>'s was, <hi>Joſh.</hi> 24.15.</p>
+                  <p>And the Reaſon of it is, Becauſe Reſo<g ref="char:EOLhyphen"/>lution is the
+foundation of all Religion. And becauſe of the fickleneſs of our Spi<g ref="char:EOLhyphen"/>rits,
+there being in every one of us the ſame ſeeds which there are in others, of
+apoſtatizing from the Living God.</p>
+                  <p>Thus of Obedience.</p>
+               </div>
+               <div n="5" type="subpart">
+                  <pb n="32" facs="tcp:97168:27"/>
+                  <head>
+                     <milestone type="tcpmilestone" unit="unspecified" n="V"/> The Tryal of Love.</head>
+                  <p>Q. <hi>WHat is the Fifth Sacramental Grace to be examined
+before you come to the Sacrament?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> It is Love.</p>
+                  <p>Q. <hi>What is that Love you are to exa<g ref="char:EOLhyphen"/>mine?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Our Love to God the Father, Son, and Holy Ghoſt;
+and our Love to the Saints, and to our Enemies.</p>
+                  <p>Q. <hi>What ſigns have you of your Love to God?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> 1. If it be a ſuperlative Love, to him above all
+the World, and all the Crea<g ref="char:EOLhyphen"/>tures in it, our Neareſt and Deareſt
+Rela<g ref="char:EOLhyphen"/>tions, even Life it ſelf, <hi>Matth.</hi> 22.37. <hi>Luke</hi>
+10.22.</p>
+                  <p>Q. <hi>How elſe?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> If it be with a fervent Love, with all our heart,
+and ſoul, and mind, and ſtrength, <hi>Deut.</hi> 6.5.</p>
+                  <p>Q. <hi>How elſe?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> If it be with a Love of complacen<g ref="char:EOLhyphen"/>cy and delight,
+<hi>Pſal.</hi> 4.4, 6. <hi>Pſal.</hi> 73.25.</p>
+                  <p>
+                     <hi>Q. How elſe?</hi>
+                  </p>
+                  <p>
+                     <pb n="49" facs="tcp:97168:27"/>
+                     <hi>A.</hi> If it be with a love of
+Aſſimulation, it makes us like to him, Holy as he is Holy, 1 <hi>Pet.</hi>
+1.15.</p>
+                  <p>Q. <hi>How elſe?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> If it be an Obediential Love, 1 <hi>Pet.</hi>
+1.17. 1 <hi>Joh.</hi> 5.2, 3, 4.</p>
+                  <p>Q. <hi>How elſe do you know you love God at your
+Father?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> By this, that he adopted me for his Child in
+Chriſt from all Eternity, <hi>Epheſ.</hi> 1.5. <hi>Joh.</hi> 1.37.</p>
+                  <p>Q. <hi>How elſe?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> By this, That when
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he fulneſs of time was come, he
+ſent forth his Son made of a woman, and made under the Law, that we might
+receive the Adoption of Sons, <hi>Gal.</hi> 4.4, 5.</p>
+                  <p>Q. <hi>How elſe?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> By this, That by his Word and Spi<g ref="char:EOLhyphen"/>rit, he hath
+wrought faith in me, <hi>John</hi> 1.12.</p>
+                  <p>Q. <hi>How elſe?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> By this, that I have the nature of my Father, and
+a deſire and endeavour to be holy as he is holy, 1 <hi>Pet.</hi> 1.15.</p>
+                  <p>Q. <hi>How elſe?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> By this, that my Deſire and endea<g ref="char:EOLhyphen"/>vour if to
+carry my ſelf as a child towards him, by ſtudying, and labouring to know
+him, and love him, and fear him, and reve<g ref="char:EOLhyphen"/>rence <pb n="50" facs="tcp:97168:28"/> and obey
+him, and depend on him for all the good I ſtand in need of, for ſoul and
+body, me and mine, this life and a bet<g ref="char:EOLhyphen"/>ter, <hi>Pſal.</hi> 9.10.</p>
+                  <p>Q. <hi>How do you know the truth of your love to his Son the
+Lord Jeſus Chriſt?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> By this, that I am willing to receive whole
+Chriſt, and give up my whole ſelf to Chriſt.</p>
+                  <p>Q. <hi>How doth it appear that you receive whole
+Chriſt?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> By this, that I receive him on his own terms, as
+my alone Lord Jeſus Chriſt, and my alone Mediator, King, Prieſt and
+Prophet.</p>
+                  <p>Q. <hi>How do you know you receive him as your alone
+Lord?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> By my renouncing all other Lords, that command
+beſides him, and contrary to him, and ſubject my ſelf only and wholly to
+his command and ſervice, <hi>Iſa.</hi> 26.13.</p>
+                  <p>Q. <hi>How do you know, you receive him as your alone
+Jeſus?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> By this, my renouncing my own righteouſneſs,
+and deſiring to be found only in his, <hi>Ph<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l.</hi> 3.8, 9.</p>
+                  <p>Q. <hi>How do y<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>u
+know you receive him for your alone Chriſt?</hi>
+                  </p>
+                  <p>
+                     <pb n="51" facs="tcp:97168:28"/>
+                     <hi>A.</hi> 1. By this, that I am anointed
+with the ſame ſpiritual unction of his Grace, 1 <hi>Joh.</hi> 2.27.</p>
+                  <p n="2">2. By this, that I labour to obſerve and perform
+thoſe offices to which I was anointed: <hi>(ſc.)</hi> to be a King to
+govern my Family, a Prieſt to offer up Spiritual Sacrifices in it, and a
+Prophet to teach and inſtruct them, <hi>Rev.</hi> 1.6.</p>
+                  <p>Q. <hi>How do you know that he is your Mediator?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> By this, that I renounce all other Mediators, as
+Angels, and Saints; and do whatſoever I do in his Name, Mediation and
+Worthineſs, <hi>Col.</hi> 3.17.</p>
+                  <p>Q. <hi>How do you know, you love him as your Prophet?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> By this, that I am willing to be taught and guided
+only by his Word and Spirit in my whole converſation; and not follow any
+further than they follow him, <hi>Joh.</hi> 10.4, 5. 1 <hi>Cor.</hi> 11.1.
+<hi>Iſa.</hi> 30.21.</p>
+                  <p>
+                     <hi>Q. How do you know you love him as your Prieſt?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> By this, 1. My high prizing of his
+righteouſneſs above my own, accounting all my own as filthineſs, and but
+Droſs and Dung, <hi>Iſa.</hi> 64.6. <hi>Phil.</hi> 3.7, 8.</p>
+                  <p>
+                     <hi>Q. How elſe?</hi>
+                  </p>
+                  <p>
+                     <pb n="52" facs="tcp:97168:29"/>
+                     <hi>A.</hi> 2. By my continual ſeeking
+unto him for all that pardoning, purging and ſancti<g ref="char:EOLhyphen"/>fying Grace I ſtand in
+need of, 1 <hi>John</hi> 1.6.</p>
+                  <p>
+                     <hi>Q How do you know you love him as your King?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> By my deſire to know his Laws, and yield
+univerſal obedience to them, <hi>Joh.</hi> 15.14. my continual fighting his
+battels againſt all his and my ſpiritual enemies, 2 <hi>Tim.</hi> 4.8. and
+my dependance on him for power and victory over them, <hi>Col.</hi> 2.15.</p>
+                  <p>
+                     <hi>Q. How do you know you give up your whol<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ſelf to him?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> By this, 1. My willingneſs to deny my ſelf,
+take up his croſs and follow him, <hi>Mark</hi> 8.34. and,</p>
+                  <p n="2">2. By my deſire and endeavour to glo<g ref="char:EOLhyphen"/>rifie him both in
+my ſoul and body, 1 <hi>Cor.</hi> 6. <hi>l<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſt.</hi>
+                  </p>
+                  <p>
+                     <hi>Q. How do you know you love the Holy Ghoſt?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> 1. By this, my giving up my ſelf to be his
+habitation to dwell in, and Tem<g ref="char:EOLhyphen"/>ple to offer up Spiritual Sacrifices in, 1
+<hi>Cor.</hi> 6.19.</p>
+                  <p>
+                     <hi>Q. How elſe?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> By my hearkning to and obeying his call to faith
+and repentance, <hi>Iſa.</hi> 30.21. <pb n="53" facs="tcp:97168:29"/> my nouriſhing and
+cheriſhing his holy motions, and reſiſting the temptations of my
+ſpiritual enemies, 1 <hi>Theſ.</hi> 5.19. and 1 <hi>Pet.</hi> 5.9.</p>
+                  <p>
+                     <hi>Q. How elſe?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> By my living in the Spirit, and walking after the
+Spirit, <hi>Gal.</hi> 5.25. <hi>Rom.</hi> 8.14.</p>
+                  <p>
+                     <hi>Q. How elſe?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> By my loving, frequenting and de<g ref="char:EOLhyphen"/>lighting in
+thoſe Ordinances, wherein he manifeſts himſelf, his Word and Sacrament,
+<hi>Pſal.</hi> 84. <hi>&amp;</hi> 122.1.</p>
+                  <p>
+                     <hi>Q. How elſe?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> By my entring on Duty in his ſtrength,
+<hi>Epheſ.</hi> 6.10. and giving him the whole glory of my ability, 1
+<hi>Cor.</hi> 15.10.</p>
+                  <p>
+                     <hi>Q. How elſe?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> By ſtill bleſſing him for thoſe ſpe<g ref="char:EOLhyphen"/>cial
+gifts and graces, acts and operations in my ſoul, as ſaving illumination,
+voca<g ref="char:EOLhyphen"/>tion, regeneration, conſolation, ſupplica<g ref="char:EOLhyphen"/>tion, and ſealing me up to
+the Day of Re<g ref="char:EOLhyphen"/>demption, <hi>Epheſ.</hi> 4.30.</p>
+                  <p>
+                     <hi>Q. How do you know that you love thoſe that are Gods,
+and Chriſts, and the Spi<g ref="char:EOLhyphen"/>rits?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> By this, that my Love is a Brotherly Love,
+<hi>Heb.</hi> 12.1.</p>
+                  <p>
+                     <pb n="54" facs="tcp:97168:30"/>
+                     <hi>Q. What is that Brotherly
+Love.</hi>
+                  </p>
+                  <p>
+                     <note place="margin">Love de<g ref="char:EOLhyphen"/>fined.</note>
+                     <hi>A.</hi> It is a
+Fruit of the Spirit, in the hearts of the Regenerate, whereby they are kindly
+affectioned one to another, be<g ref="char:EOLhyphen"/>ing careful to expreſs it by endeavouring the
+good of others ſouls and bodies, eſpe<g ref="char:EOLhyphen"/>cially the Saints, <hi>Gal.</hi>
+6.10. <hi>Rom.</hi> 12.10.</p>
+                  <p>
+                     <note place="margin">Signs of Love.</note>
+                     <hi>Q. What ſigns
+can you give me of the truth of your Love?</hi>
+                  </p>
+                  <p>
+                     <note place="margin">1 Sign.</note>
+                     <hi>A.</hi> 1. The Riſe of
+it. When it ariſeth from the Love of God to them, 1 <hi>John</hi> 5.1. And
+the command of God to love them, 1 <hi>Joh.</hi> 4.21. <hi>Joh.</hi> 15.12.
+<hi>&amp;</hi> 17.</p>
+                  <p>
+                     <hi>Q. How elſe do you know the truth of your Love?</hi>
+                  </p>
+                  <p>
+                     <note place="margin">2 Sign.</note>
+                     <hi>A.</hi> 2. By the
+Properties of it.</p>
+                  <p>
+                     <hi>Q. What is one Property of true Love?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                     <hi>A.</hi> 1. The Purity of it, when it
+comes from a pure heart, 1 <hi>Cor.</hi> 6.11. 1 <hi>Pet.</hi> 1.22.</p>
+                  <p>Q. <hi>What is another?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                     <hi>A.</hi> 2. When it is Spiritual Love,
+and ſet on others for Spiritual ends, and not for Carnal; namely, for
+Chriſts ſake, and for Grace ſake, and for Truth ſake, 1 <hi>Joh.</hi>
+5.1. <hi>Mat.</hi> 10.40, 41, 42. 2 <hi>Joh.</hi> 1, 2.</p>
+                  <p>
+                     <hi>Q. What is another?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                     <hi>A.</hi> 3. When it is Impartial Love;
+Love to all the Saints, one, as well as ano<g ref="char:EOLhyphen"/>ther; the Poor, as well as the
+Rich, the <pb n="55" facs="tcp:97168:30"/> bound as well the free, <hi>Col.</hi> 1.3, 4.
+<hi>James</hi> 2.1, <hi>to</hi> 10.</p>
+                  <p>
+                     <hi>Q. What is another?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+                     <hi>A.</hi> 4. When it is Univerſal, to
+all ſorts, Foes, as well as Friends, after the example of God, who loved us
+when we were ene<g ref="char:EOLhyphen"/>mies to him, <hi>Mat.</hi> 5.43, 44, 45. <hi>Pſal.</hi>
+35.12, 13. <hi>Rom.</hi> 5.8. yet eſpecially to the Saints, <hi>Pſal.</hi>
+16.2, 3. 1 <hi>Pet.</hi> 2.17.</p>
+                  <p>
+                     <hi>Q. What is another?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+                     <hi>A.</hi> 5. When it is a Cordial, and
+Sin<g ref="char:EOLhyphen"/>cere Love, from the heart; not only in Word, and in Tongue, but alſo in
+Deed, and in Truth, 1 <hi>Joh.</hi> 3.18. <hi>Rom.</hi> 12.9.</p>
+                  <p>
+                     <hi>Q. What is another?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="6"/>
+                     <hi>A.</hi> 6. When it is an Operative, or
+working Love. Working,</p>
+                  <p n="1">
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. Inwardly, in well-wiſhing, and
+fel<g ref="char:EOLhyphen"/>low-feeling of others Sufferings, 3 <hi>Joh.</hi> 2, 3. <hi>Rom.</hi>
+12.15.</p>
+                  <p n="2">
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. Outwardly, <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. In
+well-doing, <hi>Gal.</hi> 6.9, 10.</p>
+                  <p n="2">
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. Reconciliation to others,
+<hi>Matth.</hi> 5 23, 24. <hi>Mat.</hi> 6.14, 15.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> And 3. Satisfaction for wrongs done,
+<hi>Luke</hi> 19.8.</p>
+                  <p>
+                     <hi>Q. What is another?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified"/>
+                     <hi>A.</hi> When it is Permanent, and conſtant in
+all eſtates; in Proſperity and Adverſity; in Life and Death,
+<hi>Ruth</hi> 1.16, 17. 1 <hi>Cor.</hi> 13.13.</p>
+                  <p>
+                     <pb n="56" facs="tcp:97168:31"/>
+                     <hi>Q. How do you know you love your
+ene<g ref="char:EOLhyphen"/>mies?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> By this, that I can pray for them, <hi>Matth.</hi>
+5.44. <hi>Acts</hi> 7.60. <hi>Luke</hi> 23.34.</p>
+                  <p>
+                     <hi>Q. How elſe?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> By this, that I can heartily forgive their
+treſpaſſes againſt me, as God for Chriſts ſake forgave me, without
+ſeeking any Retaliation, <hi>Epheſ.</hi> 4.32. <hi>Col.</hi> 3.13. 1
+<hi>Pet.</hi> 2.1.</p>
+                  <p>
+                     <hi>Q. How elſe?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> By this, that I am willing and ready to do them
+good for the evil they have done to me, <hi>Rom.</hi> 12.20.</p>
+                  <p>Thus of Love.</p>
+               </div>
+               <div n="6" type="subpart">
+                  <pb n="57" facs="tcp:97168:31"/>
+                  <head>The Tryal of a Holy Deſire.<milestone type="tcpmilestone" unit="unspecified" n="VI"/>
+                  </head>
+                  <p>
+                     <hi>Q. WHat is the Sixth Sacramental Grace to be examined
+before you come to the LORDS S<g ref="char:V">Ʋ</g>PPER?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Whether we have a Spiritual Ap<g ref="char:EOLhyphen"/>petite, or holy
+Deſire to the Sacrament.</p>
+                  <p>
+                     <hi>Q. What is this Holy Deſire?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> It is a Gracious affection of a Gra<g ref="char:EOLhyphen"/>cious
+heart,<note place="margin">A Holy Deſire de<g ref="char:EOLhyphen"/>fined.</note> carrying the ſoul
+out after Spi<g ref="char:EOLhyphen"/>ritual things, in a Spiritual manner, and for Spiritual Ends,
+<hi>Iſa.</hi> 26.8, 9.</p>
+                  <p>
+                     <hi>Q. How do you know the tru<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h of a Spi<g ref="char:EOLhyphen"/>ritual Appetite,</hi>
+                     <note place="margin">Signs of a Holy
+De<g ref="char:EOLhyphen"/>ſire.</note> 
+                     <hi>or Holy Deſire to the Sa<g ref="char:EOLhyphen"/>crament?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> 1. By the Riſe of it.<note place="margin">1.
+Sign.</note>
+                  </p>
+                  <p>
+                     <hi>Q. How by the Riſe of it?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                     <hi>A.</hi> 1. When it ariſeth from a
+ſight and ſenſe of our own weakneſs of Grace, <hi>Mark</hi> 9.24.
+<hi>Luke</hi> 15.17.</p>
+                  <p>
+                     <hi>Q. How elſe d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>th it ariſe?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                     <hi>A.</hi> 2. When it ariſeth from a
+ſight and ſenſe of the Fulneſs that is in Chriſt, for the ſupply of
+all our wants, <hi>Luke</hi> 15.17. <hi>C<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l.</hi> 1.19. <hi>Cant.</hi> 4.16.</p>
+                  <p>
+                     <hi>Q. How elſe?</hi>
+                  </p>
+                  <p>
+                     <pb n="58" facs="tcp:97168:32"/>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                     <hi>A.</hi> 3. When it
+ariſeth from a principle of Grace, <hi>Pſal.</hi> 40.8.</p>
+                  <p>
+                     <hi>Q. How elſe?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+                     <hi>A.</hi> 4. When it ariſeth from
+experience of the ſweetneſs, and goodneſs of God in his Ordinances, 1
+<hi>Pet.</hi> 2.2, 3, 4, 5.</p>
+                  <p>
+                     <hi>Q. How elſe do you know the truth of a Holy
+Deſire?</hi>
+                  </p>
+                  <p>
+                     <note place="margin">2 Sign.</note>
+                     <hi>A.</hi> 2. By the
+Properties of it.</p>
+                  <p>
+                     <hi>Q. What is one Property of a Holy De<g ref="char:EOLhyphen"/>ſire?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                     <hi>A.</hi> 1. When it is Sincere, after
+Grace, as well as Glory; Holineſs, as well as Hap<g ref="char:EOLhyphen"/>pineſs, <hi>Pſal.</hi>
+73.24, 25.</p>
+                  <p>
+                     <hi>Q. What is another?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                     <hi>A.</hi> 2. When it ſets a high Price,
+and Value upon the thing deſired; as <hi>Paul, Phil.</hi> 3.7, 8, 9. And as
+the wiſe Merchant, <hi>Mat.</hi> 13.46.</p>
+                  <p>
+                     <hi>Q. What is another?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                     <hi>A.</hi> 3. When it is Induſtrious,
+Earneſt, and Reſtleſs in the uſe of means for obtain<g ref="char:EOLhyphen"/>ing, the thing
+deſired. For he that truly hungers and thirſts, will endeavour in the uſe
+of means to have it allayed, <hi>Iſa.</hi> 26.9. 1 <hi>Pet.</hi> 2.2.</p>
+                  <p>
+                     <hi>Q. What is another?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+                     <hi>A.</hi> 4. When it is firm and ſtrong,
+ſtill growing, <hi>Phil.</hi> 3.14. <hi>Pſal.</hi> 119.20.</p>
+                  <p>
+                     <hi>Q. What is another?</hi>
+                  </p>
+                  <p>
+                     <pb n="59" facs="tcp:97168:32"/>
+                     <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+                     <hi>A.</hi> 5. When it
+is conſtant until it ob<g ref="char:EOLhyphen"/>tain, <hi>Pſal.</hi> 119.20. And as <hi>Jacob,
+Gen.</hi> 32.26.</p>
+                  <p>
+                     <hi>Q. How elſe do you know it?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> 3. By the Fruits and Effects of it.<note place="margin">3 Sign.</note>
+                  </p>
+                  <p>
+                     <hi>Q. What is one Fruit of it?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                     <hi>A.</hi> 1. When it is Glad of, and
+Rejoy<g ref="char:EOLhyphen"/>ceth in the Opportunities of enjoying Com<g ref="char:EOLhyphen"/>munion with God in his
+Ordinances, <hi>Pſal.</hi> 122.1. <hi>Iſa.</hi> 2.3.</p>
+                  <p>
+                     <hi>Q. What is another?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                     <hi>A.</hi> 2. When there is Retention. When
+the ſoul not only cloſeth with Spiritual food, but keeps it, and digeſts
+it, <hi>Heb.</hi> 3.14.</p>
+                  <p>
+                     <hi>Q. What is another?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                     <hi>A.</hi> 3. When it makes a man Impatient
+of delays, <hi>Pſal.</hi> 42.2. <hi>Pſal.</hi> 84.2.</p>
+                  <p>
+                     <hi>Q. What is another?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+                     <hi>A.</hi> 4. When a man takes content in
+no<g ref="char:EOLhyphen"/>thing, without Chriſt, and Gods Love and favour in him, <hi>Cant.</hi>
+3.1, 2, 3.</p>
+                  <p>
+                     <hi>Q. What is another?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+                     <hi>A.</hi> 5. When the ſoul is content
+with Chriſt and Grace, in the want of all other things, <hi>Pſal.</hi> 4.6,
+7.</p>
+                  <p>
+                     <hi>Q. What is another?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="6"/>
+                     <hi>A.</hi> 6. When it Patients, and quiets
+the ſoul, in, and under Sufferings from God, and man, <hi>Heb.</hi>
+10.34.</p>
+                  <p>
+                     <pb n="60" facs="tcp:97168:33"/>
+                     <hi>Q. What is another?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="7"/>
+                     <hi>A.</hi> 7. When it moderates the
+deſires after the things of the world, <hi>Prov.</hi> 30.8, 9.</p>
+                  <p>
+                     <hi>Q. What is another?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="8"/>
+                     <hi>A.</hi> 8. When we are made willing to
+part with Temporals for Spirituals, 2 <hi>Chron.</hi> 11.13, 14.</p>
+                  <p>
+                     <hi>Q. What is another?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="9"/>
+                     <hi>A.</hi> 9. When we are made willing to
+lay out all that ſtrength, and benefit that we have received by the
+Ordinance, in the Service of God, 1 <hi>Kings</hi> 19.8.</p>
+                  <p>Thus of a Holy Deſire.</p>
+                  <p>And thus of Habitual Preparation to the Sacrament of the Lords
+SUPPER.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="61" facs="tcp:97168:33"/>
+               <head>OF Actual Preparation TO THE Lords Supper.</head>
+               <p>Queſtion. <hi>WHat is Actual Preparation?</hi>
+               </p>
+               <p>
+                  <hi>Anſwer.</hi> It is the Renewing, Acting,<note place="margin">Actual preparati<g ref="char:EOLhyphen"/>on defi<g ref="char:EOLhyphen"/>ned.</note> and Exerciſing of thoſe
+Habits of Graces which we have found in our ſelves.</p>
+               <p>
+                  <hi>Q. Why is every one to Renew, Act, and Exerciſe thoſe
+Graces before he come to the Sacrament?</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <hi>A.</hi> 1. Becauſe elſe they will lye
+dead in our ſouls, and it will be all one, as if we <pb n="62" facs="tcp:97168:34"/> had
+them not, if we do not Act and Exer<g ref="char:EOLhyphen"/>ciſe them.</p>
+               <p>
+                  <hi>Q. Why elſe?</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <hi>A.</hi> 2. Becauſe we are commanded at
+all times to ſtir up the Graces of God in us, 2 <hi>Tim.</hi> 1.6.</p>
+               <p>
+                  <hi>Q. Why elſe?</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                  <hi>A.</hi> 3. Becauſe elſe we ſhall
+Receive un<g ref="char:EOLhyphen"/>worthily, as the <hi>Corinthians</hi> did, becauſe they did not
+renew and act their Repen<g ref="char:EOLhyphen"/>tance before they came, 1 <hi>Cor.</hi> 11.30, 31,
+32.</p>
+               <p>
+                  <hi>Q. How are we to renew, act, and exer<g ref="char:EOLhyphen"/>ciſe the former
+Graces?</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <hi>A.</hi> 1. By Meditation, and examination,
+what our defects are in the former Graces.</p>
+               <p n="2">
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. By humbling our ſelves under
+them.</p>
+               <p n="3">
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. By Begging the Pardon of them, and
+power over them; and that this Pardon may be Sealed up to us in the Sacrament;
+and given unto us by the Spirit of Chriſt, for the enabling of us to walk
+more wor<g ref="char:EOLhyphen"/>thy of the Lord unto all well-pleaſing.</p>
+               <p>
+                  <pb n="63" facs="tcp:97168:34"/>
+                  <hi>Q. HOw are you to ſtir up the Grace of
+Knowledge before the Sacrament?</hi>
+                  <note place="margin">The ſtir<g ref="char:EOLhyphen"/>ring up the
+Graces before the Sacra<g ref="char:EOLhyphen"/>ment. 1. Know<g ref="char:EOLhyphen"/>ledge.</note>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <hi>A.</hi> 1. By humbling our ſelves under
+our former coming to the Table of the Lord in ſo much Ignorance.</p>
+               <p n="2">
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. By Labouring to get a more diſtinct
+Knowledge of thoſe things which we do know.</p>
+               <p n="3">
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. By dwelling awhile upon the
+medi<g ref="char:EOLhyphen"/>tation of the Excellency, Neceſſity, and Utility of thoſe things
+that we do know, 1 <hi>Joh.</hi> 2.3, 4.</p>
+               <p>
+                  <hi>Q. How are you to ſtir up the Grace of Faith before the
+Sacrament?</hi>
+                  <note place="margin">2. Faith.</note>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <hi>A.</hi> 1. By taking notice of the want,
+and weakneſs of our Faith, wherein we have manifeſted unbelief ſince we
+were laſt at the Lords Table.</p>
+               <p n="2">
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. By meditating upon the freeneſs,
+ful<g ref="char:EOLhyphen"/>neſs and ſweetneſs of the Promiſes.</p>
+               <p n="3">
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. By conſidering the Lords kind
+Invi<g ref="char:EOLhyphen"/>tation, and hearty welcome of upright hearts, <hi>Cant.</hi> 5.1.</p>
+               <p>
+                  <hi>Q. How are you to ſtir up the Grace of Repentance before
+you come to the Sa<g ref="char:EOLhyphen"/>crament?</hi>
+               </p>
+               <p>
+                  <pb n="64" facs="tcp:97168:35"/>
+                  <note place="margin">3.
+Repen<g ref="char:EOLhyphen"/>tance.</note>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <hi>A.</hi> 1. By ſearching out our
+ſpecial ſins that we have committed ſince we were laſt at the Table of
+the Lord, <hi>Lam.</hi> 3.40.</p>
+               <p n="2">
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. By a free, a full, and particular
+con<g ref="char:EOLhyphen"/>feſſion of them, <hi>Prov.</hi> 28.13. 1 <hi>Tim.</hi> 1.13.</p>
+               <p n="3">
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. By ſound humiliation under them,
+and ſelf-condemnation for them, <hi>James</hi> 4.9, 10. 1 <hi>Cor.</hi>
+11.31.</p>
+               <p n="4">
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. By earneſt Supplication for the
+par<g ref="char:EOLhyphen"/>don of them, and power over them, in, and by the Uſe of the
+Sacrament.</p>
+               <p>
+                  <note place="margin">4. Obedi<g ref="char:EOLhyphen"/>ence.</note>Q. <hi>How are you to
+ſtir up your Obedi<g ref="char:EOLhyphen"/>ence before you come to the Sacrament?</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <hi>A.</hi> 1. By taking notice what our
+omiſ<g ref="char:EOLhyphen"/>ſions, defects, and failings have been in our Obedience.</p>
+               <p n="2">
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. By bewailing them before the Throne
+of Grace.</p>
+               <p n="3">
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. By renewing our Covenant with God, of
+new, and better Obedience, of more forwardneſs to it, and Spiritualneſs,
+and fruitfulneſs in the uſe of the Sacrament.</p>
+               <p>
+                  <note place="margin">5. Love.</note>Q. <hi>How are you to ſtir
+up your Love be<g ref="char:EOLhyphen"/>fore you c<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>me to the
+Sacrament?</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <hi>A.</hi> 1. By taking notice of our wants,
+and defects in our Love to Chriſt, or any of his.</p>
+               <p n="2">
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. By humbling our ſelves under all
+our unkindneſſes to them.</p>
+               <p n="3">
+                  <pb n="65" facs="tcp:97168:35"/>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. By a
+willingneſs, and readineſs to ſeek, and accept of Reconciliation with
+others.</p>
+               <p n="4">
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. By a Reſolution and endeavour to
+manifeſt more fruits of Love and mercy, to the Souls and Bodies of others,
+eſpeci<g ref="char:EOLhyphen"/>ally thoſe that are of the houſhold of faith, <hi>Gal.</hi>
+6.10.</p>
+               <p>Q. <hi>How are you to ſtir up your Holy deſire to th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Sacrament before you come?</hi>
+                  <note place="margin">6. Holy Deſire.</note>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <hi>A.</hi> 1. By taking notice of our great
+want of Chriſt, and need of Grace.</p>
+               <p n="2">
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. By meditating on the great worth of
+Chriſt, and the Alſufficiency of Chriſt, and the readineſs of Chriſt
+to ſupply all our wants.</p>
+               <p n="3">
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. By conſidering the Greatneſs of
+the Feaſt, the greateſt that ever Heaven and Earth affords; and the
+greatneſs of the Feaſt-maker, being no other than the King of Kings.</p>
+               <p n="4">
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. By conſidering the Lords Gracious
+invitation of us, and the many precious Promiſes that he hath made to
+ſupply all our wants, <hi>Pſal.</hi> 81.10. <hi>Pſal.</hi> 145.18,
+19.</p>
+               <p>
+                  <pb n="66" facs="tcp:97168:36"/>
+                  <note place="margin">Of ſtirring up the
+Graces in the Sacra<g ref="char:EOLhyphen"/>ment. 1. Know<g ref="char:EOLhyphen"/>ledge.</note>Q. <hi>HOw are you to ſtir up
+the Grace of knowledge in the <g ref="char:V">Ʋ</g>ſe of the Sacrament?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By a ſerious meditation of theſe Three
+things.</p>
+               <p n="1">
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. The Greatneſs of the
+<hi>Majeſty</hi> in whoſe preſence we are.</p>
+               <p n="2">
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. The Excellency of the <hi>Matter</hi>
+which we partake of.</p>
+               <p n="3">
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. The things Signified by the
+Ele<g ref="char:EOLhyphen"/>ments, and the Actions about them.</p>
+               <p>Q. <hi>How are you to ſtir up your Faith in the <g ref="char:V">Ʋ</g>ſe of the
+Sacrament?</hi>
+               </p>
+               <p>
+                  <note place="margin">2. Faith.</note>
+                  <hi>A.</hi> By making
+particular Application of all the Sacramental Promiſes, and Sacra<g ref="char:EOLhyphen"/>mental
+Actions, and Sacramental Ends, and Sacramental Benefits that are Signed,
+Sealed, and Exhibited in the Sacrament to any true Believer: That they are
+Signed, Sealed up, and Exhibited to my ſelf in particular.</p>
+               <p>Q. <hi>How are you to ſtir up your Re<g ref="char:EOLhyphen"/>pentance in the <g ref="char:V">Ʋ</g>ſe
+of the Sacrament?</hi>
+               </p>
+               <p>
+                  <note place="margin">3. Repen<g ref="char:EOLhyphen"/>tance.</note>
+                  <hi>A.</hi> By
+labouring to have our hearts feelingly affected with Godly ſorrow for ſin,
+which was the principal in the Death <pb n="67" facs="tcp:97168:36"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd Sufferings of Chriſt; and ſo
+hating ſin, as never to leave purſuing it, until we have the death of that
+which was the cauſe of the Death of Chriſt.</p>
+               <p>Q. <hi>How are you to ſtir up your Obedi<g ref="char:EOLhyphen"/>ence in the <g ref="char:V">Ʋ</g>ſe
+of the Sacrament?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By Renewing our Covenant of more circumſpect
+walking for the future;<note place="margin">4. Obedi<g ref="char:EOLhyphen"/>ence.</note> and fetching
+Vertue from Chriſt, to walk be<g ref="char:EOLhyphen"/>fore him in new, and better Obedience.</p>
+               <p>Q. <hi>How are you to ſtir up the Grace of Love to Chriſt,
+in the <g ref="char:V">Ʋ</g>ſe of the Sa<g ref="char:EOLhyphen"/>crament?</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <hi>A.</hi> 1. We are to ſtir up our Love to
+Jeſus Chriſt,<note place="margin">5. Love.</note> by taking notice of his
+won<g ref="char:EOLhyphen"/>derful Love to us, in taking our Nature upon him; and in Doing and
+Suffering that in our nature for us, which neither we our ſelves, nor the
+whole Creation were able to do, and ſuffer for us.</p>
+               <p>Q. <hi>How elſe?</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <hi>A.</hi> 2. By taking notice wherein we
+are, or have been defective in our Love to him; and humbling our ſelves under
+our failings, and renewing our Covenant of more expreſſions of Love to him
+than ever.</p>
+               <p>Q. <hi>How are you to ſtir up the Grace of Love to the Saints,
+in the <g ref="char:V">Ʋ</g>ſe of the Sa<g ref="char:EOLhyphen"/>crament?</hi>
+               </p>
+               <p>
+                  <pb n="68" facs="tcp:97168:37"/>
+                  <hi>A.</hi> By taking notice wherein we have
+been defective in our Love to them, and humbling our ſelves under it; and
+renew<g ref="char:EOLhyphen"/>ing our Covenant of exerciſing more Love to others; and endeavouring to
+go in, and out before others in all offices of Love.</p>
+               <p>Q. <hi>How are you to ſtir up your Holy Deſire in the
+<g ref="char:V">Ʋ</g>ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of the Sacrament?</hi>
+               </p>
+               <p>
+                  <note place="margin">6. Holy Deſire.</note>
+                  <hi>A.</hi> By
+opening our mouth wide, that he may fill it; and by an earneſt expecta<g ref="char:EOLhyphen"/>tion
+of all the good things Signed, Sealed up, and Exhibited in the Sacrament, to
+all true believers, <hi>Pſal.</hi> 81.10.</p>
+               <div type="subpart">
+                  <head>A Right Diſpoſition in the time of Ad<g ref="char:EOLhyphen"/>miniſtration of
+the Sacrament.</head>
+                  <p>Q. <hi>WHat is Required at the time of the Adminiſtration of
+the Sacrament?</hi>
+                     <note place="margin">4 Things Required in the time.</note>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Four things. 1. Reverence. 2. Me<g ref="char:EOLhyphen"/>ditation. 3.
+Affection. 4. Prayer.</p>
+                  <p>
+                     <note place="margin">I. Reve<g ref="char:EOLhyphen"/>rence.</note>Q. <hi>What Reverence
+is Required?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> It is both Outward, and Inward.</p>
+                  <p n="1">
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. Outward, To fix our eye upon the 
+<pb n="69" facs="tcp:97168:37"/> Elements, and the Actions of the Miniſter about
+them.</p>
+                  <p n="2">
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. Inward, in a ſenſe of our own
+un<g ref="char:EOLhyphen"/>worthineſs, and an endeavour to approve our hearts to God in all we
+do.</p>
+                  <p>Q. <hi>What are thoſe things that we are to Meditate
+on,</hi>
+                     <note place="margin">II. Medita<g ref="char:EOLhyphen"/>tion.</note> 
+                     <hi>in the uſe of the
+Sacr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>ment?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> 1. We are to Meditate on the near
+Reſemblance,<note place="margin">1. On the Reſem<g ref="char:EOLhyphen"/>blances.</note> or Relation
+between the <hi>Bread and Wine,</hi> and the <hi>Body and Blood</hi> of
+Chriſt.</p>
+                  <p>Q. <hi>What are ſome of thoſe Reſem<g ref="char:EOLhyphen"/>blances?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                     <hi>A.</hi> 1. As the Bread is the ſtaff
+and ſtrength of our natural Life: ſo is Chriſt of our Spiritual life, 1
+<hi>Cor.</hi> 12.6.</p>
+                  <p n="2">
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. As the Corn hath much labour
+be<g ref="char:EOLhyphen"/>ſtowed upon it, before it come to be Bread: ſo the Lord Jeſus Chriſt
+ſuffered much for us, before he could become Bread for our Souls.</p>
+                  <p n="3">
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. As Bread is but one body, though it
+be made up of many Grains: ſo all the faithful are but one Body though they
+are many Members.</p>
+                  <p>Q. <hi>What Reſemblan<gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>s are there be<g ref="char:EOLhyphen"/>tween the Wine, and the Blood of
+Chriſt?</hi>
+                  </p>
+                  <p>
+                     <pb n="70" facs="tcp:97168:38"/>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                     <hi>A.</hi> 1. As Wine
+quencheth the thirſt of the <hi>Body:</hi> ſo doth the <hi>Blood</hi> of
+Chriſt quench the thirſt of the <hi>Soul, Joh.</hi> 4.13, 14.</p>
+                  <p n="2">
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. As Wine cheereth and maketh glad
+the heart: ſo doth the Blood of Chriſt cheer, and make glad the drooping
+Spirits.</p>
+                  <p n="3">
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. As Wine warmeth the Stomach; ſo
+the Blood of Chriſt, applyed by faith, warmeth the Soul, and increaſeth the
+Graces of the Spirit.</p>
+                  <p>Q. <hi>What elſe are you to Meditate on?</hi>
+                  </p>
+                  <p>
+                     <note place="margin">2. On the Things
+ſignified.</note>
+                     <hi>A.</hi> 2. The things ſignified by the Acti<g ref="char:EOLhyphen"/>ons of the
+Miniſter, and the Receivers in and about the Sacrament, and the near
+reſemblances between them. As (for in<g ref="char:EOLhyphen"/>ſtance) when I ſee the Miniſter
+take and ſet apart the Bread and Wine; Then am I to Meditate on the Love of
+God the Fa<g ref="char:EOLhyphen"/>ther, in ſetting apart his Son Jeſus Chriſt, from all
+Eternity, for the work of our Redemption.</p>
+                  <p>Q. <hi>What are you elſe to Meditate on?</hi>
+                  </p>
+                  <p>
+                     <note place="margin">3. The ug<g ref="char:EOLhyphen"/>ly nature of ſin,
+<hi>&amp;c.</hi>
+                     </note>
+                     <hi>A.</hi> 3. We are to meditate on, The ugly nature of
+ſin, that could not be done away, but by the ſhedding of the precious blood
+of Jeſus Chriſt. The Impartial Juſtice of God the Father, in puniſhing
+ſin in his own Son. The Infinite Love of God, in giving Chriſt to be our
+Surety, and accept<g ref="char:EOLhyphen"/>ing <pb n="71" facs="tcp:97168:38"/> him as our ſurety. The Infinite
+Love of Chriſt, in undertaking the great work of our Redemption for us; and
+in Inſtituting this Sacrament to put, and keep us in re<g ref="char:EOLhyphen"/>membrance of it.</p>
+                  <p>
+                     <hi>Q. What elſe are you to Meditate on?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> 4. The many,<note place="margin">4. On the Benefits
+that come by it.</note> and great Benefits that come to true believers by the
+right Receiving of the Lords Supper.</p>
+                  <p>
+                     <hi>Q. What are they?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Amongſt others theſe.</p>
+                  <p n="1">
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. Communion with Jeſus Chriſt,
+and all his Merits, Graces, and Purchaſes, 1 <hi>Cor.</hi> 10.16.</p>
+                  <p n="2">
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. Power over our Corruptions, and
+in<g ref="char:EOLhyphen"/>creaſe of our Graces: and</p>
+                  <p n="3">
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. Enlargement of our comforts, in the
+Aſſurance of the pardon of our ſins, and an intereſt in eternal Life
+and Salvation by Jeſus Chriſt.</p>
+                  <p>Q. <hi>What is the Third thing required at the time of the
+Adminiſtration of the Sa<g ref="char:EOLhyphen"/>cram<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nt?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> 3. Affection.<note place="margin">III.
+Affection.</note> That we labour to be feelingly affected with what is
+repre<g ref="char:EOLhyphen"/>ſented in the Sacrament; with godly ſor<g ref="char:EOLhyphen"/>row for our ſins, whereby
+we have pierced the Lord Jeſus Chriſt. And with Joy, and rejoycing in the
+apprehenſion of the <pb n="72" facs="tcp:97168:39"/> great benefits Signed, Sealed up and
+Exhi<g ref="char:EOLhyphen"/>bitted to us in the Sacrament.</p>
+                  <p>Q. <hi>What is the Fourth thing required at the time of the
+Adminiſtration of the Sacrament?</hi>
+                  </p>
+                  <p>
+                     <note place="margin">IV. Prayer.</note>
+                     <hi>A.</hi> 4. Prayer.
+That God, who hath Graciouſly Invited us, would Graciouſly Accept us; and
+help us to carry our ſelves Reverently, Meditate ſeriouſly, and Affect us
+heartily with what we go about; And bleſs the Ordinance to thoſe ends to
+which he hath appointed it. The Mortification of our Luſts, and the
+Increaſe of our Graces; The Aſſurance of perfect Juſti<g ref="char:EOLhyphen"/>fication, and
+Eternal Salvation by Jeſus Chriſt.</p>
+               </div>
+               <div type="subpart">
+                  <head>An Anſwer<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ble
+carriage After the Re<g ref="char:EOLhyphen"/>ceiving the Lords Supper.</head>
+                  <p>Q. <hi>WHat is Required After you have Re<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eived the S<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>crament?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> An anſwerable Carriage, in the Obſervance, and
+Performance of all thoſe Duties that are required, in Publick, and in
+Private.</p>
+                  <p>
+                     <pb n="73" facs="tcp:97168:39"/>Q. <hi>What are thoſe Duties that are
+re<g ref="char:EOLhyphen"/>quired in Publick after your Receiving the Sacrament?</hi>
+                     <note place="margin">Publick Duties.</note>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                     <hi>A.</hi> 1. To joyn with the Miniſter,
+and the Congregation in Solemn Thankſgiving for the Infinite Love of God, in
+giving us Jeſus Chriſt; And the Infinite Love of Chriſt, in undertaking
+the great work of Redemption for us; and of the Holy Ghoſt, in Signing, and
+Sealing and Exhi<g ref="char:EOLhyphen"/>biting ſuch great bleſſings in it. For the Opportunity
+to partake of this Ordinance. And for the preſent Benefit and Comfort which
+we have found by it.</p>
+                  <p>Q. <hi>What is another Publick Duty?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                     <hi>A.</hi> 2. The Renovation of our
+Covenant with God, of more circumſpect, humble, holy and Heavenly walking
+with God.</p>
+                  <p>Q. <hi>What is a Third Publick Duty?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                     <hi>A.</hi> 3. A Teſtification and
+Expreſſion of our thankfulneſs to God for the preſent Soul mercy, by
+ſhewing mercy to his poor Saints, by giving ſomething towards the relief of
+their neceſſities, 1 <hi>Cor.</hi> 16.1, 2.</p>
+                  <p>Q. <hi>What is required in Private after you have received the
+Sacrament?</hi>
+                     <note place="margin">Private Duties.</note>
+                  </p>
+                  <p>
+                     <hi>A.</hi> 1. Examination.<note place="margin">1.
+Examina<g ref="char:EOLhyphen"/>tion.</note> To Examine what Benefit and Comfort we have reaped by
+being at the Sacrament. Whether we have received any more Aſſurance of Gods
+<pb n="74" facs="tcp:97168:40"/> Love, Peace of Conſcience; any more ſtrength of Grace,
+and power over Cor<g ref="char:EOLhyphen"/>ruption.</p>
+                  <p>Q. <hi>What if we cannot find this, what are we then to
+do?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> To ſearch out the cauſe, whether we were not
+careleſs in our Preparation before, or in our Diſpoſition and behaviour
+in the time of Receiving, and to humble our ſelves accordingly.</p>
+                  <p>Q. <hi>What if our Conſcience tell us that we were not
+willingly faulty this way: but that we endeavoured to prepare our ſelves to
+it, and behave our ſelves in it as we ought: what are we then to do, if we
+cannot find comfort?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> To wait upon God for the diſcovery of his Love
+to us. Becauſe, as <hi>Phyſick</hi> doth not preſently work, nor
+<hi>Meat</hi> preſently nouriſh: So neither doth the Sacrament alwayes
+preſently comfort; but in Gods time.</p>
+                  <p>Q. <hi>What if I find preſent Benefit and Comfort, what is
+then my Duty?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> To give God the Glory of his Grace in it; and to
+labour to walk humbly, and watchfully for the future, that we do not loſe
+it.</p>
+                  <p>Q. <hi>What is another Duty in Private, be<g ref="char:EOLhyphen"/>ſides
+Examination?</hi>
+                  </p>
+                  <p>
+                     <pb n="75" facs="tcp:97168:40"/>
+                     <hi>A.</hi> 2. Reformation.<note place="margin">2. Reforma<g ref="char:EOLhyphen"/>tion.</note> That we remember to obſerve, and make
+good all our vows and promiſes unto God, as we expect he ſhould make good
+his unto us.</p>
+                  <p>Q. <hi>What are thoſe things that we promiſe to God in the
+Sacrament?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> To walk more holily, humbly, ſpiri<g ref="char:EOLhyphen"/>tually, and
+heavenly before God. To ſerve him more faithfully, cheerfully and
+fruit<g ref="char:EOLhyphen"/>fully; To watch more againſt ſin, and to reſiſt the motions,
+temptations, and occaſi<g ref="char:EOLhyphen"/>ons of it. And to watch more over Grace, to cheriſh
+the motions of it. And to lay hold on all opportunities of honouring God, and
+of doing and receiving good.</p>
+                  <p>Q. <hi>Why is every one to be ſo careful of remembring, and
+making good his vows and promiſes of more circumſpect walking after the
+Sacrament?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Becauſe otherwiſe we cannot expect that God
+ſhould make good his vows, and promiſes unto us: we ſhould but mock with
+God, and deceive our own ſouls. We ſhould deprive our ſelves of peace and
+com<g ref="char:EOLhyphen"/>fort, and expoſe our ſelves to Gods diſplea<g ref="char:EOLhyphen"/>ſure for the future.
+For it is better never to vow, than not to perform that which we have vowed,
+<hi>Eccleſ.</hi> 5.4, 5.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:97168:41"/>
+            <pb facs="tcp:97168:41" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="60" facs="tcp:97168:42"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="61" facs="tcp:97168:42"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="62" facs="tcp:97168:43"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="63" facs="tcp:97168:43"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="64" facs="tcp:97168:44"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="65" facs="tcp:97168:44"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="66" facs="tcp:97168:45"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="67" facs="tcp:97168:45"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="68" facs="tcp:97168:46"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="69" facs="tcp:97168:46"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="70" facs="tcp:97168:47"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="71" facs="tcp:97168:47"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="72" facs="tcp:97168:48"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="73" facs="tcp:97168:48"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="74" facs="tcp:97168:49"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="75" facs="tcp:97168:49"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
